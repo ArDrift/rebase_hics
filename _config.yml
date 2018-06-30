@@ -1,7 +1,7 @@
 title: HICS.hu
 description: > # this means to ignore newlines until "baseurl:"
   Humán Innovációs Csoport Nonprofit Kft.
-baseurl: "/hics.hu" # the subpath of your site, e.g. /blog
+baseurl: "/rebase_hics" # the subpath of your site, e.g. /blog
 url: "https://ardrift.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
