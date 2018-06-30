@@ -1,0 +1,98 @@
+button:
+  en: Magyar
+  hu: English
+
+titles:
+  main:
+    en: Human Innovation Group nonprofit Ltd.
+    hu: Humán Innovációs Csoport Nonprofit Kft.
+  intro:
+    en: Introduction
+    hu: Bemutatkozás
+  send_message:
+    en: Send message
+    hu: Üzenet küldése
+  name:
+    en: Name
+    hu: Név
+  email:
+    en: E-mail address
+    hu: E-mail cím
+  phone:
+    en: Phone number
+    hu: Telefonszám
+  message:
+    en: Message
+    hu: Üzenet
+
+nav:
+  projects:
+    en: Projects
+    hu: Projektek
+  news:
+    en: News
+    hu: Hírek
+  ent_dev:
+    en: Enterprise development
+    hu: Vállalkozásfejlesztés
+  coaching:
+    en: Coaching
+    hu: Coaching
+  training:
+    en: Training
+    hu: Képzés
+  org_dev:
+    en: Organization development
+    hu: Szervezetfejlesztés
+  services:
+    en: Services
+    hu: Szolgáltatások
+  granary:
+    en: The Barn
+    hu: Magtár
+  contact:
+    en: Contact
+    hu: Kapcsolat
+
+sections:
+  projects:
+    en: Our projects
+    hu: Projektjeink
+  news:
+    en: News & Events
+    hu: Aktuális hírek, események
+  ent_dev:
+    en: Enterprise development
+    hu: Vállalkozásfejlesztés
+  coaching:
+    en: Coaching
+    hu: Coaching
+  training:
+    en: Trainings / Courses
+    hu: Képzéseink
+  org_dev:
+    en: Organization development
+    hu: Szervezetfejlesztés
+  services:
+    en: Tender Expert Services
+    hu: Szolgáltatások
+  granary:
+    en: The Barn
+    hu: Magtár
+  contact:
+    en: Contact
+    hu: Kapcsolat
+
+text:
+  name:
+    en: Please enter your name.
+    hu: Add meg a neved.
+  email:
+    en: Please enter your email address.
+    hu: Add meg az e-mail címed.
+  phone:
+    en: Please enter your phone number (optional).
+    hu: Add meg a telefonszámod (nem kötelező).
+  message:
+    en: Please enter a message.
+    hu: Írj be egy üzenetet.

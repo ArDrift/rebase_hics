@@ -1,0 +1,34 @@
+<!-- Page content -->
+{% if section.ref != "intro" %}
+<div class="portfolio-modal" id="{{ section.order }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                  <div class="modal-body">
+                    <p>{{ section.content }}</p>
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% elsif section.ref == "intro" %}
+<h2 class="section-heading text-center" id="{{ section.ref }}">{{ section.title }}</h2>
+
+<div class="portfolio-modal" id="{{ section.order }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                  <div class="modal-body">
+                    <p>{{ section.content }}</p>
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endif %}
