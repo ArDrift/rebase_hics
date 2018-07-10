@@ -1,3 +1,4 @@
+{% if section.ref != "projects" %}
 <!-- Page content -->
 {% if section.ref != "intro" %}
 <div class="portfolio-modal" id="{{ section.order }}" tabindex="-1" role="dialog" aria-hidden="true">
@@ -5,9 +6,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
-                  <div class="modal-body">
-                    <p>{{ section.content }}</p>
-                  </div>
+                    <div class="modal-body">
+                      {{ section.content }}
+                    </div>
                 </div>
             </div>
         </div>
@@ -16,19 +17,48 @@
 
 {% elsif section.ref == "intro" %}
 <h2 class="section-heading text-center" id="{{ section.ref }}">{{ section.title }}</h2>
-
-<div class="portfolio-modal" id="{{ section.order }}" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                  <div class="modal-body">
-                    <p>{{ section.content }}</p>
+  <div class="portfolio-modal" id="{{ section.order }}" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-content">
+          <div class="container">
+              <div class="row">
+                  <div class="col-lg-8 col-lg-offset-2">
+                      <div class="modal-body">
+                        {{ section.content }}
+                      </div>
                   </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+              </div>
+          </div>
+      </div>
+  </div>
+{% endif %}
 
+{% elsif section.ref == "projects" %}
+{% assign posts=site.posts | where:"lang",page.lang %}
+{% for post in posts %}
+<!-- Project content -->
+<div class="container">
+  <div class="portfolio-modal modal fade" id="{{ post.ref }}" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+              <div class="lr">
+                  <div class="rl">
+                  </div>
+              </div>
+          </div>
+          <div class="container projects-content">
+              <div class="row">
+                  <div class="col-lg-8 col-lg-offset-2">
+                      <div class="modal-body">
+                          <h1><strong>{{ post.title }}</strong></h1>
+                          <hr class="star-primary">
+                          {{ post.content }}
+                          <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Bezár</button>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+{% endfor %}
 {% endif %}
