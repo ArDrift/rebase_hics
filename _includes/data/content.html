@@ -1,5 +1,6 @@
 {% if section.ref != "projects" %}
 <!-- Page content -->
+{% if section.ref != "contact" %}
 {% if section.ref != "intro" %}
 <div class="portfolio-modal" id="{{ section.order }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
@@ -31,7 +32,9 @@
       </div>
   </div>
 {% endif %}
-
+{% elsif section.ref == "contact" %}
+{{ section.content }}
+{% endif %}
 {% elsif section.ref == "projects" %}
 {% assign posts=site.posts | where:"lang",page.lang %}
 {% for post in posts %}
