@@ -2,6 +2,7 @@ backend:
   name: github
   repo: ArDrift/rebase_hics
   branch: master # Branch to update (optional; defaults to master)
+  site_domain: rebase-hics.netlify.com
   accept_roles:
     - admin
     - editor
