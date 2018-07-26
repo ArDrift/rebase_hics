@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: ArDrift/rebase_hics
   branch: master # Branch to update (optional; defaults to master)
   accept_roles:
     - admin
