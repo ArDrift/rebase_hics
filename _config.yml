@@ -1,8 +1,8 @@
 title: HICS.hu
 description: > # this means to ignore newlines until "baseurl:"
   Humán Innovációs Csoport Nonprofit Kft.
-baseurl: "/rebase_hics" # the subpath of your site, e.g. /blog
-url: "https://ardrift.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://rebase-hics.netlify.com/" # the base hostname & protocol for your site
 
 facebook:
   app_id:
