@@ -589,54 +589,7 @@ Modals
     }
 }
 
-section#services {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/assets/img/services.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-}
 
-section#training {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/assets/img/training.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-section#org_dev {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/assets/img/org_dev.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-section#coaching {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/assets/img/coaching.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-section#ent_dev {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/assets/img/ent_dev.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-section#granary {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/assets/img/7.projekt2.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-section#news {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/assets/img/news.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-}
 
 @media(min-width:1499px) {
     #granary .speakers-item {
@@ -652,13 +605,17 @@ Modals end
 aside.clients img {
     margin: 50px auto;
 }
-
-section#contact {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/assets/img/contact.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
+/*
+Create heading for each page with img front matter property
+*/
+{% assign img_sections = site.pages | sort:"order" | where: "lang","hu" %}{% for section in img_sections %}{% if section.img %}
+section#{{ section.ref }} {
+  background-color: #222;
+  background-image: url('{{ site.baseurl }}/assets/img/{{ section.img }}');
+  background-position: center;
+  background-repeat: no-repeat;
 }
+{% endif %}{% endfor %}
 
 .section-heading {
   color: #{{ site.data.template.color.primary }};

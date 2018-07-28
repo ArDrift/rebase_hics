@@ -3,6 +3,7 @@ title: Trainings / Courses
 nav: Training
 lang: en
 ref: training
+img: training.jpg
 order: 6
 ---
 

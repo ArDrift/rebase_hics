@@ -3,6 +3,7 @@ title: Coaching
 nav: Coaching
 lang: hu
 ref: coaching
+img: coaching.jpg
 order: 5
 ---
 

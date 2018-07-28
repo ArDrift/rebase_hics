@@ -3,6 +3,7 @@ title: News & Events
 nav: News
 lang: en
 ref: news
+img: news.jpg
 order: 3
 ---
 

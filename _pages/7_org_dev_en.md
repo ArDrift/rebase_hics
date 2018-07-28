@@ -3,6 +3,7 @@ title: Organization development
 nav: Organization development
 lang: en
 ref: org_dev
+img: org_dev.jpg
 order: 7
 ---
 

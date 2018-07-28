@@ -3,6 +3,7 @@ title: The Barn
 nav: The Barn
 lang: en
 ref: granary
+img: granary.jpg
 order: 9
 ---
 

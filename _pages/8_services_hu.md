@@ -3,6 +3,7 @@ title: Szolgáltatások
 nav: Szolgáltatások
 lang: hu
 ref: services
+img: services.jpg
 order: 8
 ---
 
