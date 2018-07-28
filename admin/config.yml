@@ -19,7 +19,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Cím", name: "title", widget: "text"}
+      - {label: "Cím", name: "title", widget: "string"}
       - {label: "Nyelv", name: "lang", widget: "select", options: ["en", "hu"], default: "hu"}
       - {label: "Link", name: "ref", widget: "string"}
       - {label: "Kép", name: "img", widget: "image"}
@@ -34,7 +34,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Cím", name: "title", widget: "text"}
+      - {label: "Cím", name: "title", widget: "string"}
       - {label: "Nyelv", name: "lang", widget: "select", options: ["en", "hu"], default: "hu"}
       - {label: "Link", name: "ref", widget: "string"}
       - {label: "Kép", name: "img", widget: "image"}
@@ -46,7 +46,7 @@ collections:
     filter:
       field: lang
       value: hu
-    create: false # Allow users to create new documents in this collection
+    create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - {label: "Cím", name: "title", widget: "string"}
       - {label: "Menüpont neve", name: "nav", widget: "string"}
@@ -60,7 +60,7 @@ collections:
     filter:
       field: lang
       value: en
-    create: false # Allow users to create new documents in this collection
+    create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - {label: "Cím", name: "title", widget: "string"}
       - {label: "Menüpont neve", name: "nav", widget: "string"}
