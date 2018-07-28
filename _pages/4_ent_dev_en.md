@@ -3,7 +3,7 @@ title: Enterprise development
 nav: Enterprise development
 lang: en
 ref: ent_dev
-img: ent_dev.jpg
+img: /assets/img/ent_dev.jpg
 order: 4
 ---
 

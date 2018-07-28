@@ -3,7 +3,7 @@ title: Kapcsolat
 nav: Kapcsolat
 lang: hu
 ref: contact
-img: contact.jpg
+img: /assets/img/contact.jpg
 order: 10
 ---
 

@@ -3,7 +3,7 @@ title: Aktuális hírek, események
 nav: Hírek
 lang: hu
 ref: news
-img: news.jpg
+img: /assets/img/news.jpg
 order: 3
 ---
 

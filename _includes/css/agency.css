@@ -611,7 +611,7 @@ Create heading for each page with img front matter property
 {% assign img_sections = site.pages | sort:"order" | where: "lang","hu" %}{% for section in img_sections %}{% if section.img %}
 section#{{ section.ref }} {
   background-color: #222;
-  background-image: url('{{ site.baseurl }}/assets/img/{{ section.img }}');
+  background-image: url('{{ site.baseurl }}{{ section.img }}');
   background-position: center;
   background-repeat: no-repeat;
 }

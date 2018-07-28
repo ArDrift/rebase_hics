@@ -3,7 +3,7 @@ title: Coaching
 nav: Coaching
 lang: en
 ref: coaching
-img: coaching.jpg
+img: /assets/img/coaching.jpg
 order: 5
 ---
 

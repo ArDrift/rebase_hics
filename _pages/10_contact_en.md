@@ -3,7 +3,7 @@ title: Contact
 nav: Contact
 lang: en
 ref: contact
-img: contact.jpg
+img: /assets/img/contact.jpg
 order: 10
 ---
 

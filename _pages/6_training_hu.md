@@ -3,7 +3,7 @@ title: Képzéseink
 nav: Képzés
 lang: hu
 ref: training
-img: training.jpg
+img: /assets/img/training.jpg
 order: 6
 ---
 
