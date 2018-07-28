@@ -13,7 +13,7 @@ its function in the 20 th century, but it was reopened as a cultural centre in 2
 The beamed ceiling preserves the original building characteristics, the heating is
 provided with gas-based floor heating.
 
-![Exhibition room](../assets/img/sections/granary/7.projekt2_content.jpg)
+![Exhibition room](../assets/img/7.projekt2_content.jpg)
 
 __The purpose of the exhibition__ is to show the ethnical local history of Szigetvár
 between the 17 th and 20 th centuries through the culture of the local southern Slav
@@ -27,7 +27,7 @@ exhibition area. It currently functions as a reception, where people buy their
 tickets, but it could also function as a cloak-room. The rest rooms are on a side
 corridor opening from the exhibition area.
 
-![Corridor](../assets/img/sections/granary/7.projekt3.jpg)
+![Corridor](../assets/img/7.projekt3.jpg)
 
 The primary goal of the thematically
 organized exhibition is to show the material and spiritual culture of the local

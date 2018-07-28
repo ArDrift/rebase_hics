@@ -15,7 +15,7 @@ execution.
 
 ## __LIFT complex enterprise development programme__
 
-![LIFT](../assets/img/sections/training/LIFT.jpg)
+![LIFT](../assets/img/LIFT.jpg)
 
 __Our goal__ is to give long-run and effective solutions for companies that would like to
 reach high performance, be successful on the quickly changing market, and aim at

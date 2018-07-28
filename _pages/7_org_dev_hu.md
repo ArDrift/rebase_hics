@@ -10,7 +10,7 @@ Minden szervezet alapvető igénye az egyensúly, ez garantálja a megfelelő m�
 
 ## __LIFT komplex vállalkozás fejlesztési program__
 
-![LIFT](assets/img/sections/training/LIFT.jpg)
+![LIFT](assets/img/LIFT.jpg)
 
 __Célunk__ hosszú távú, hatékony megoldásokat nyújtani olyan vállalkozások számára, amelyek a munkatársaik céltudatos és motivált együttműködésével kívánnak magas teljesítményt elérni, sikeresen működni gyorsan változó piaci körülmények közt, törekedve a folyamatos fejlődésre.
 Küldetésünk, hogy részesei legyünk olyan szervezetek fejlődésének, ahol a munkatársak hatékonyan, céltudatosan, és motiváltan működnek együtt. Hogy olyan munkahelyek legyenek, ahol a csoport tagjai szívesen teszik a dolgukat, és mindezt energikusan, egészségtudatosan tehetik meg, ami által hosszú távon magas teljesítményre képes csapattá válnak. Mindezen célok hatással vannak az egyénre, a családra, a szervezetre, a mikro-és a makro környezetre is. Azt a hatást szeretnénk elérni, hogy olyan munkahelyek legyenek, ahol szeretnek dolgozni az emberek, tágabb értelemben pedig érzékenyíteni szeretnénk a környezetünket, szemléletet formálni, ahol az egészséges életre való törekvés folyamatosan jelen van.

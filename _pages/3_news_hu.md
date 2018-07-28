@@ -8,7 +8,7 @@ order: 3
 
 # __2018. március__
 
-![Coaching centrum logo](assets/img/sections/news/logo_cc.png)
+![Coaching centrum logo](assets/img/logo_cc.png)
 
 A Coachingcentrum 2018. március 1-től megkezdte a teamcoach képzését, melynek a Humán Innovációs Csoport Nkft. ad helyet. A képzés 76 órás. Célja, hogy coach szemléletű vezetőket, szakembereket képezzen, akik egyik fő feladata, hogy emberekkel, csoportokkal foglalkozzanak minél hatékonyabban.   Az akkreditált képzés teamcoach-tanúsítványt ad.
 

@@ -591,49 +591,49 @@ Modals
 
 section#services {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/assets/img/sections/services/services.jpg');
+    background-image: url('{{ site.baseurl }}/assets/img/services.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#training {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/assets/img/sections/training/training.jpg');
+    background-image: url('{{ site.baseurl }}/assets/img/training.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#org_dev {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/assets/img/sections/org_dev/org_dev.jpg');
+    background-image: url('{{ site.baseurl }}/assets/img/org_dev.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#coaching {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/assets/img/sections/coaching/coaching.jpg');
+    background-image: url('{{ site.baseurl }}/assets/img/coaching.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#ent_dev {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/assets/img/sections/ent_dev/ent_dev.jpg');
+    background-image: url('{{ site.baseurl }}/assets/img/ent_dev.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#granary {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/assets/img/sections/granary/7.projekt2.jpg');
+    background-image: url('{{ site.baseurl }}/assets/img/7.projekt2.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#news {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/assets/img/sections/news/news.jpg');
+    background-image: url('{{ site.baseurl }}/assets/img/news.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -655,7 +655,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/assets/img/sections/contact/contact.jpg');
+    background-image: url('{{ site.baseurl }}/assets/img/contact.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
