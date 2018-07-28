@@ -809,10 +809,6 @@ ul.social-buttons li a:active {
     font-size: 140%;
 }
 
-.portfolio-modal .modal-content p {
-    margin-bottom: 30px;
-}
-
 .portfolio-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
     font-family: {{ site.data.template.font.secondary }};
