@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Intro&shy;duction
 nav: Introduction
 lang: en
 ref: intro

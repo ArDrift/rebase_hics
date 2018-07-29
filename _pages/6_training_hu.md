@@ -1,5 +1,5 @@
 ---
-title: Képzéseink
+title: Képzés&shy;eink
 nav: Képzés
 lang: hu
 ref: training
@@ -7,7 +7,7 @@ img: /assets/img/training.jpg
 order: 6
 ---
 
-## __Munkaerőpiaci- és közösségfejlesztő komplex program__
+## __Munkaerőpiaci- és közösség&shy;fejlesztő komplex program__
 
 __Engedélyezési szám: E-000554/2014__
 

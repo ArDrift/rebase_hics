@@ -1,5 +1,5 @@
 ---
-title: Bemutatkozás
+title: Bemutat&shy;kozás
 nav: Bemutatkozás
 lang: hu
 ref: intro

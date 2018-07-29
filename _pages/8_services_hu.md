@@ -1,5 +1,5 @@
 ---
-title: Szolgáltatások
+title: Szolgál&shy;tatások
 nav: Szolgáltatások
 lang: hu
 ref: services

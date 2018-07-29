@@ -1,5 +1,5 @@
 ---
-title: Organization development
+title: Organ&shy;ization develop&shy;ment
 nav: Organization development
 lang: en
 ref: org_dev

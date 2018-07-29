@@ -1,5 +1,5 @@
 ---
-title: Szervezetfejlesztés
+title: Szervezet&shy;fejlesz&shy;tés
 nav: Szervezetfejlesztés
 lang: hu
 ref: org_dev

@@ -1,5 +1,5 @@
 ---
-title: Projektjeink
+title: Projekt&shy;jeink
 nav: Projektek
 lang: hu
 ref: projects

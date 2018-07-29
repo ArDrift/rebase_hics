@@ -1,5 +1,5 @@
 ---
-title: Enterprise development
+title: Enter&shy;prise develop&shy;ment
 nav: Enterprise development
 lang: en
 ref: ent_dev

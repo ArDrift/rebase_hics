@@ -1,5 +1,5 @@
 ---
-title: Vállalkozásfejlesztés
+title: Vállalko&shy;zás&shy;fejlesz&shy;tés
 nav: Vállalkozásfejlesztés
 lang: hu
 ref: ent_dev
