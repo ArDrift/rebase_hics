@@ -4,17 +4,6 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/rebase_hics" # the subpath of your site, e.g. /blog
 url: "https://ardrift.github.io" # the base hostname & protocol for your site
 
-facebook:
-  app_id:
-
-logo: "css/style/img/hics-logo.png"
-
-social:
-  name: Your Facebook Page
-  link: "https://www.facebook.com/"
-
-google_site_verification: googleXXXXXXXXXXXXXXXX.html
-
 include: ['_pages']
 
 plugins:
