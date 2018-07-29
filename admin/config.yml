@@ -47,6 +47,7 @@ collections:
       field: lang
       value: hu
     create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}_hu" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Cím", name: "title", widget: "string"}
       - {label: "Menüpont neve", name: "nav", widget: "string"}
@@ -62,6 +63,7 @@ collections:
       field: lang
       value: en
     create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}_en" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Cím", name: "title", widget: "string"}
       - {label: "Menüpont neve", name: "nav", widget: "string"}
