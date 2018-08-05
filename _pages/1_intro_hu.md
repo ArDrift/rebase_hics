@@ -8,7 +8,7 @@ order: 1
 
 A __Humán Innovációs Csoport Nonprofit Kft.__ 2009 óta működő társadalmi vállalkozás, amely a _kiemelt közösségi célok_ elérését sikeres _üzleti működéssel_ ötvözi, így hozva létre egy hosszútávon szakmailag és pénzügyileg is fenntartható modellt.
 
-__Társadalmai küldetésünk:__
+__Társadalmi küldetésünk:__
 - Sikeres egyéni életutakhoz való hozzájárulás képzéssel, képesség-, készségfejlesztéssel
 - Hátrányos helyzetű emberek, csoportok társadalmi reintegrációja
 - Komplex területfejlesztés társadalmi, és gazdasági szempontból egyaránt
@@ -22,7 +22,7 @@ __Szakértői szolgáltatásaink:__
 - Szervezetfejlesztés
 - Közösségfejlesztés
 - Tréningek (vezetőfejlesztés, munkaerő-piaci, közösségfejlesztő, személyes készségek képességek fejlesztése, )
-- Felnőttképzés (Enegdélyezett felnőttképző intézmény vagyunk)
+- Felnőttképzés (Engedélyezett felnőttképző intézmény vagyunk)
 - Coaching
 - Pályázati szakértői szolgáltatások
 - CSR fejlesztés, tanácsadás
@@ -35,11 +35,11 @@ __Működésünk alapelvei:__
 - Innováció, kreativitás
 - Folyamatos szolgáltatás fejlesztés
 - Felelősségteljes működés szűkebb és tágabb környezetünkben
-- Munkatársaink bevonása a vezetésbe, döntéshozatatalba
+- Munkatársaink bevonása a vezetésbe, döntéshozatalba
 - Családbarát munkahely
 
 
-__Startégiai partnereink:__
+__Stratégiai partnereink:__
 - Pécsi Tudományegyetem
 
 ![Pécsi Tudományegyetem logo](assets/img/ptelogo.jpg)
