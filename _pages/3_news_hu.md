@@ -18,8 +18,7 @@ Irodánk oktatóteremmel is rendelkezik, amely alkalmas, tárgyalások, work sho
 Bérleti díj:  2.800Ft/óra
 Az alap felszereltségen kívül biztosítani tudunk laptopot, projektort, flipchart táblát, nyomtatási lehetőséget. Igény esetén részletes ajánlatot adunk!
 
-**H20 - TOWN NETWORKING AND ENGAGING CITIZENS FOR THE PROTECTION OF WATER RESOURCES IN EUROPE
-**
+**H20 - TOWN NETWORKING AND ENGAGING CITIZENS FOR THE PROTECTION OF WATER RESOURCES IN EUROPE**
 
 Lezajlott a "H20 - TOWN NETWORKING AND ENGAGING CITIZENS FOR THE PROTECTION OF WATER RESOURCES IN EUROPE" projekt keretében a tapasztalat és jógyakorlat csere, Szlovénia szívében, Litijában, hat ország részvételével.  
 
