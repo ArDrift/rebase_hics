@@ -18,15 +18,14 @@ Irodánk oktatóteremmel is rendelkezik, amely alkalmas, tárgyalások, work sho
 Bérleti díj:  2.800Ft/óra
 Az alap felszereltségen kívül biztosítani tudunk laptopot, projektort, flipchart táblát, nyomtatási lehetőséget. Igény esetén részletes ajánlatot adunk!
 
+**H20 - TOWN NETWORKING AND ENGAGING CITIZENS FOR THE PROTECTION OF WATER RESOURCES IN EUROPE
+**
 
-
-**H20 - TOWN NETWORKING AND ENGAGING CITIZENS FOR THE PROTECTION OF WATER RESOURCES IN EUROPE**
-
-Lezajlott a "H20 - TOWN NETWORKING AND ENGAGING CITIZENS FOR THE PROTECTION OF WATER RESOURCES IN EUROPE" projekt keretében a tapasztalat és jógyakorlat csere, Szlovénia szívében, Litijában, hat ország részvételével. 
+Lezajlott a "H20 - TOWN NETWORKING AND ENGAGING CITIZENS FOR THE PROTECTION OF WATER RESOURCES IN EUROPE" projekt keretében a tapasztalat és jógyakorlat csere, Szlovénia szívében, Litijában, hat ország részvételével.  
 
 A projekt fő témája a hálózatosodás és a vízvédelem. A Europe for Citizens program támogatásával, hét esemény során a résztvevő partnerek tapasztalatokat, jógyakorlatokat cserélnek, tovább építik kapcsolataik és további közös projekteket fejlesztenek.
 
-2018. június 14-16. között a H20 projekt szlovén partnere – a LAZ Vidékfejlesztési Egyesület – látta vendégül a résztvevőket a szerbiai Rumából, a horvátországi Našiceből, a csehországi Prágából, a bulgáriai Razlogból és a magyarországi Pécsről érkeztek. A programon a fenti városok közül, öt város polgármestere is részt vett. 
+2018.06.14-16. között a H20 projekt szlovén partnere – a LAZ Vidékfejlesztési Egyesület – látta vendégül a résztvevőket a szerbiai Rumából, a horvátországi Našiceből, a csehországi Prágából, a bulgáriai Razlogból és a magyarországi Pécsről érkeztek. A programon a fenti városok közül, öt város polgármestere is részt vett. 
 
 Litijában az esemény szervezői bemutatták, hogy Ljubljanában is kiemelten foglalkoznak a talajvíz-védelemmel, annak érdekében, hogy klórmentes ivóvizet tudjak biztosítani. A pályázat neve, melynek keretében ezt megvalósítják “AMIIGA és talajvíz-védelmi tervek – az eszköz a vizeink megőrzésére és fejlesztésére ”.
 
