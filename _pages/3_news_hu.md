@@ -14,7 +14,7 @@ Már csak szeptember első hetében lehet jelentkezni a Coachingcentrum szeptemb
 
 A képzés részleteiről az alábbi linken olvashatnak információkat:
 
-https://www.coachingcentrum.hu/kepzesek/coachkepzes-pecs/
+[Coachingcentrum Coachképzés](https://www.coachingcentrum.hu/kepzesek/coachkepzes-pecs/)
 
 Miben más a mi programunk?
 
