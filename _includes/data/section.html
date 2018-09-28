@@ -25,7 +25,7 @@
               <img src="{{ post.img }}" class="img-responsive img-centered" alt="">
           </a>
           <div class="speakers-caption">
-              <h4>{{ post.title }}</h4>
+              <h4>{% if post.short_title != null %}{{ post.short_title }}{% else %}{{ post.title }}{% endif %}</h4>
           </div>
       </div>
       {% endfor %}

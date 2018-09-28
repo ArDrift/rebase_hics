@@ -20,6 +20,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-projekt" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Cím", name: "title", widget: "string"}
+      - {label: "Rövid cím", name: "short_title", widget: "string"}
       - {label: "Nyelv", name: "lang", widget: "select", options: ["en", "hu"], default: "hu"}
       - {label: "Link", name: "ref", widget: "string"}
       - {label: "Kép", name: "img", widget: "image"}
@@ -35,6 +36,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-project" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Cím", name: "title", widget: "string"}
+      - {label: "Rövid cím", name: "short_title", widget: "string"}
       - {label: "Nyelv", name: "lang", widget: "select", options: ["en", "hu"], default: "hu"}
       - {label: "Link", name: "ref", widget: "string"}
       - {label: "Kép", name: "img", widget: "image"}
