@@ -95,7 +95,7 @@ header {
     height: 100vh;
     min-height: 850px;
     text-align: center;
-    color: #c11117;
+    color: #d5d5d5;
     background-attachment: scroll;
     background-image: url('/assets/img/header-bg.jpg');
     background-position: center center;
@@ -127,6 +127,7 @@ header .intro-text .intro-heading {
     font-size: 40px;
     font-weight: 700;
     line-height: 40px;
+    margin-top: 50px;
 }
 
 @media(min-width:1500px) {
@@ -150,6 +151,7 @@ header .intro-text .intro-heading {
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
+        margin-top: 50px;
     }
 }
 
@@ -319,7 +321,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #ff8f00;
+    background-color: #ffffff;
 }
 
 .navbar-default .navbar-brand {
@@ -357,7 +359,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: #000000;
 }
 
 .navbar-default .nav li a:hover,
@@ -403,7 +405,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #ff8f00;
+        background-color: #ffffff;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {

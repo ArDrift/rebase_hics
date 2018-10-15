@@ -4,14 +4,7 @@
             <div class="intro-text">
                 <div class="intro-heading">{% if page.lang == "hu" %}{{ site.data.strings.titles.main.hu }}{% elsif page.lang == "en"%}{{ site.data.strings.titles.main.en }}{% endif %}</div>
                     {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-                    {% if page.lang == "hu" %}
-                    <a href="{{ site.url }}/en/" class="btn btn-xl">{{ site.data.strings.button.hu }}</a>
-                    {% elsif page.lang == "en" %}
-                    <a href="{{ site.url }}/" class="btn btn-xl">{{ site.data.strings.button.en }}</a>{% endif %}
-                  </br>
-                </br>
-              </br>
-                <a href="#intro" class="page-scroll btn btn-xl">{% if page.lang == "hu" %}{{ site.data.strings.titles.intro.hu }}{% elsif page.lang == "en"%}{{ site.data.strings.titles.intro.en }}{% endif %}</a></br>
+                    <br/>
                 <img src="/assets/img/hics-logo.png" alt="HICS logo">
             </div>
         </div>
