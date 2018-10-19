@@ -107,12 +107,15 @@ header {
     text-shadow: 2px 2px 2px black;
 }
 
-header .intro-text {
+header .intro {
     padding-top: 25vh;
     padding-bottom: 50px;
+    display: table-cell;
+    vertical-align: middle;
+    min-height: 850px;
 }
 
-header .intro-text .intro-lead-in {
+header .intro .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
@@ -120,7 +123,7 @@ header .intro-text .intro-lead-in {
     line-height: 22px;
 }
 
-header .intro-text .intro-heading {
+header .intro .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
@@ -131,12 +134,15 @@ header .intro-text .intro-heading {
 }
 
 @media(min-width:1500px) {
-    header .intro-text {
+    header .intro {
         padding-top: 300px;
         padding-bottom: 200px;
+        display: table-cell;
+        vertical-align: middle;
+        min-height: 850px;
     }
 
-    header .intro-text .intro-lead-in {
+    header .intro .intro-lead-in {
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
@@ -144,7 +150,7 @@ header .intro-text .intro-heading {
         line-height: 40px;
     }
 
-    header .intro-text .intro-heading {
+    header .intro .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
@@ -155,17 +161,23 @@ header .intro-text .intro-heading {
     }
 }
 
-header .intro-text img {
+header .intro-img img {
   max-width: 80%;
   height: auto;
   padding-top: 25px;
+  display: inline-block;
+}
+
+header > .container {
+  min-height: 850px;
 }
 
 @media(min-width:500px) {
-  header .intro-text img {
+  header .intro-img img {
     max-width: 50%;
     height: auto;
     padding-top: 25px;
+    display: inline-block;
   }
 }
 
@@ -384,7 +396,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default-color {
         padding: 25px 0;
         background-color: transparent;
-        text-shadow: 1px 2px 1px black;
+        text-shadow: 0px 0px 2px black;
     }
     .navbar-default {
         border: 0;

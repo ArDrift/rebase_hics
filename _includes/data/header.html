@@ -1,11 +1,17 @@
 <!-- Header -->
     <header>
         <div class="container">
-            <div class="intro-text">
-                <div class="intro-heading">{% if page.lang == "hu" %}{{ site.data.strings.titles.main.hu }}{% elsif page.lang == "en"%}{{ site.data.strings.titles.main.en }}{% endif %}</div>
-                    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-                    <br/>
-                <img src="/assets/img/hics-logo.png" alt="HICS logo">
+            <div class="intro">
+                <div class="intro-heading">
+                  {% if page.lang == "hu" %}
+                    {{ site.data.strings.titles.main.hu }}
+                  {% elsif page.lang == "en"%}
+                    {{ site.data.strings.titles.main.en }}
+                  {% endif %}
+                </div>
+                <div class="intro-img">
+                    <img src="/assets/img/hics-logo.png" alt="HICS logo">
+                </div>
             </div>
         </div>
     </header>

@@ -13,7 +13,12 @@
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">{% assign sorted_pages = site.pages | sort:"order" %}{% for section in sorted_pages %}{% if section.ref != "intro" %}{% if section.title %}{% if section.lang == page.lang %}
+                <ul class="nav navbar-nav navbar-right">{% assign sorted_pages = site.pages | sort:"order" %}
+                    <li>
+                      <a href="{% if page.lang == "hu" %}{{ site.baseurl }}/en/{% elsif page.lang == "en" %}{{ site.baseurl }}/{% endif %}">{% if page.lang == "hu" %}Switch to English{% elsif page.lang == "en" %}Váltás magyarra{% endif %}</a>
+                    </li>
+                  {% for section in sorted_pages %}
+                  {% if section.ref != "intro" %}{% if section.title %}{% if section.lang == page.lang %}
                     <li>
                       <a class="page-scroll" href="#{{ section.ref }}">{{ section.nav }}</a>
                     </li>{% endif %}{% endif %}{% endif %}{% endfor %}
