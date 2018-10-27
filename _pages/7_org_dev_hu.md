@@ -2,6 +2,7 @@
 title: Szervezet&shy;fejlesz&shy;tés
 nav: Szervezetfejlesztés
 lang: hu
+link: true
 ref: org_dev
 img: /assets/img/org_dev.jpg
 order: 7

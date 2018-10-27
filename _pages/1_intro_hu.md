@@ -2,6 +2,7 @@
 title: Bemutat&shy;kozás
 nav: Bemutatkozás
 lang: hu
+link: false
 ref: intro
 order: 1
 ---

@@ -2,6 +2,7 @@
 title: Enter&shy;prise develop&shy;ment
 nav: Enterprise development
 lang: en
+link: true
 ref: ent_dev
 img: /assets/img/ent_dev.jpg
 order: 4

@@ -2,6 +2,7 @@
 title: Coaching
 nav: Coaching
 lang: hu
+link: true
 ref: coaching
 img: /assets/img/coaching.jpg
 order: 5

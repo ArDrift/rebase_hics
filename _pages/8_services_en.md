@@ -2,6 +2,7 @@
 title: Tender Expert Services
 nav: Services
 lang: en
+link: true
 ref: services
 img: /assets/img/services.jpg
 order: 8

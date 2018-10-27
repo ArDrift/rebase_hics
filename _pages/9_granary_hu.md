@@ -2,6 +2,7 @@
 title: Magtár
 nav: Magtár
 lang: hu
+link: true
 ref: granary
 img: /assets/img/granary.jpg
 order: 9

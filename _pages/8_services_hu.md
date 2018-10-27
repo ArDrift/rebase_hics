@@ -2,6 +2,7 @@
 title: Szolgál&shy;tatások
 nav: Szolgáltatások
 lang: hu
+link: true
 ref: services
 img: /assets/img/services.jpg
 order: 8

@@ -2,6 +2,7 @@
 title: The Barn
 nav: The Barn
 lang: en
+link: true
 ref: granary
 img: /assets/img/granary.jpg
 order: 9

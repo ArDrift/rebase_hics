@@ -2,6 +2,7 @@
 title: News & Events
 nav: News
 lang: en
+link: true
 ref: news
 img: /assets/img/news.jpg
 order: 3

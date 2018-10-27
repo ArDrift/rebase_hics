@@ -2,6 +2,7 @@
 title: Kapcsolat
 nav: Kapcsolat
 lang: hu
+link: true
 ref: contact
 img: /assets/img/contact.jpg
 order: 10

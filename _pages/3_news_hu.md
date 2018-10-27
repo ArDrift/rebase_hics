@@ -2,6 +2,7 @@
 title: 'Aktuális hírek, esemény&shy;ek'
 nav: Hírek
 lang: hu
+link: true
 ref: news
 img: /assets/img/news.jpg
 order: 3

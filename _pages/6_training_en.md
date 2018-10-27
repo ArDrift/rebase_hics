@@ -2,6 +2,7 @@
 title: Trainings / Courses
 nav: Training
 lang: en
+link: true
 ref: training
 img: /assets/img/training.jpg
 order: 6

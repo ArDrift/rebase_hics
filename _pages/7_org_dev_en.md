@@ -2,6 +2,7 @@
 title: Organ&shy;ization develop&shy;ment
 nav: Organization development
 lang: en
+link: true
 ref: org_dev
 img: /assets/img/org_dev.jpg
 order: 7

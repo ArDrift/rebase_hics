@@ -54,6 +54,7 @@ collections:
       - {label: "Cím", name: "title", widget: "string"}
       - {label: "Menüpont neve", name: "nav", widget: "string"}
       - {label: "Nyelv", name: "lang", widget: "select", options: ["en", "hu"], default: "hu"}
+      - {label: "Mutatás a navigációs sávban", name: "link", widget: "boolean", default: false}
       - {label: "Link", name: "ref", widget: "string"}
       - {label: "Kép", name: "img", widget: "image", required: false}
       - {label: "Sorrend", name: "order", widget: "number", valueType: "int"}
@@ -70,6 +71,7 @@ collections:
       - {label: "Cím", name: "title", widget: "string"}
       - {label: "Menüpont neve", name: "nav", widget: "string"}
       - {label: "Nyelv", name: "lang", widget: "select", options: ["en", "hu"], default: "en"}
+      - {label: "Mutatás a navigációs sávban", name: "link", widget: "boolean", default: false}
       - {label: "Link", name: "ref", widget: "string"}
       - {label: "Kép", name: "img", widget: "image", required: false}
       - {label: "Sorrend", name: "order", widget: "number", valueType: "int"}

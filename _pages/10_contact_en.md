@@ -2,6 +2,7 @@
 title: Contact
 nav: Contact
 lang: en
+link: true
 ref: contact
 img: /assets/img/contact.jpg
 order: 10
