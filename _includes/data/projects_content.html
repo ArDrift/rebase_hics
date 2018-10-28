@@ -1,0 +1,28 @@
+{% assign posts = site.posts | where:"lang",page.lang %}
+{% for post in posts %}
+<!-- Archived Project content -->
+<div class="container">
+    <div class="portfolio-modal modal fade" id="{{ post.ref }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container projects-content">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h1><strong>{{ post.title }}</strong></h1>
+                            <hr class="star-primary">
+                            {{ post.content }}
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Bezár</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}
