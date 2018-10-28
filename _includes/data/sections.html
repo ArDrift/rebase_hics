@@ -1,0 +1,16 @@
+{% case page.ref %}
+
+{% when "home" %}
+
+{% assign main_section = site.pages | where:"link",false | where:"lang",page.lang | where:"main",true %}
+{% for section in main_section %}
+{% include data/content.html %}
+{% endfor %}
+
+{% else %}
+
+{% assign current_page = site.pages | where:"link",true | where:"lang",page.lang | where:"ref",page.ref %}
+{% for page in current_page %}
+{% include data/content.html %}
+{% endfor %}
+{% endcase %}

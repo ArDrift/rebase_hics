@@ -1,4 +1,6 @@
-<!-- Header -->
+{% case page.ref %}
+{% when "home"%}
+<!-- Main header -->
     <header>
         <div class="container">
             <div class="intro">
@@ -15,3 +17,7 @@
             </div>
         </div>
     </header>
+{% else %}
+<!-- Page header -->
+{% include data/pages.html %}
+{% endcase %}

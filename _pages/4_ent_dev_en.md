@@ -3,6 +3,8 @@ title: Enter&shy;prise develop&shy;ment
 nav: Enterprise development
 lang: en
 link: true
+layout: home
+permalink: /ent_dev_en/
 ref: ent_dev
 img: /assets/img/ent_dev.jpg
 order: 4

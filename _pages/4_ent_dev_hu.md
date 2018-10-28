@@ -3,6 +3,8 @@ title: Vállal&shy;kozás&shy;fejlesz&shy;tés
 nav: Vállalkozásfejlesztés
 lang: hu
 link: true
+layout: home
+permalink: /ent_dev_hu/
 ref: ent_dev
 img: /assets/img/ent_dev.jpg
 order: 4

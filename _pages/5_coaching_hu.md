@@ -3,6 +3,8 @@ title: Coaching
 nav: Coaching
 lang: hu
 link: true
+layout: home
+permalink: /coaching_hu/
 ref: coaching
 img: /assets/img/coaching.jpg
 order: 5

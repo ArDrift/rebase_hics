@@ -1,0 +1,74 @@
+{% if page.projects != true %}
+<section id="{{ page.ref }}">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+              <h2 class="section-heading">{{ page.title }}</h2>
+            </div>
+        </div>
+    </div>
+</section>
+{% else %}
+{% assign current_projects = site.posts | where:"lang",page.lang | where_exp:"post","post.archived != true" %}
+{% assign current_project_section = site.pages | where:"lang",page.lang | where:"ref","current_projects" %}
+{% for section in current_project_section %}
+      <section id="#{{ section.ref }}">
+          <div class="container">
+              <div class="row">
+                  <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">{{ section.title }}</h2>
+                  </div>
+              </div>
+          </div>
+      </section>
+      {% endfor %}
+      {% for projects in current_projects %}
+      <div class="col-md-4 col-sm-6 speakers-item">
+            <a href="#{{ projects.ref }}" class="speakers-link" data-toggle="modal">
+                <div class="speakers-hover">
+                  <div class="speakers-hover-content">
+                      <i class="fa fa-plus fa-3x"></i>
+                  </div>
+                </div>
+              <img src="{{ projects.img }}" class="img-responsive img-centered" alt="">
+            </a>
+          <div class="speakers-caption">
+              <h4>{% if projects.short_title != null %}{{ projects.short_title }}{% else %}{{ projects.title }}{% endif %}</h4>
+          </div>
+      </div>
+{% endfor %}
+
+{% assign archived_projects_section = site.pages | where:"ref",page.ref | where:"lang",page.lang | where:"ref",projects %}
+{% for section in archived_projects_section %}
+      <section id="#{{ section.ref }}">
+          <div class="container">
+              <div class="row">
+                  <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">{{ section.title }}</h2>
+                  </div>
+              </div>
+          </div>
+      </section>
+      {% endfor %}
+{% assign archived_projects = site.posts | where:"lang",page.lang | where:"archived",true %}
+<div class="row">
+{% for post in archived_projects %}
+  <div class="col-md-4 col-sm-6 speakers-item">
+      <a href="#{{ post.ref }}" class="speakers-link" data-toggle="modal">
+          <div class="speakers-hover">
+              <div class="speakers-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+              </div>
+          </div>
+          <img src="{{ post.img }}" class="img-responsive img-centered" alt="">
+      </a>
+      <div class="speakers-caption">
+          <h4>{% if post.short_title != null %}{{ post.short_title }}{% else %}{{ post.title }}{% endif %}</h4>
+      </div>
+  </div>
+{% endfor %}
+</div>
+{% include data/content.html %}
+
+{% else %}
+{% endif %}

@@ -3,6 +3,8 @@ title: 'Aktuális hírek, esemény&shy;ek'
 nav: Hírek
 lang: hu
 link: true
+layout: home
+permalink: /news_hu/
 ref: news
 img: /assets/img/news.jpg
 order: 3
@@ -51,7 +53,7 @@ Lezajlott a "H20 - TOWN NETWORKING AND ENGAGING CITIZENS FOR THE PROTECTION OF W
 
 A projekt fő témája a hálózatosodás és a vízvédelem. A Europe for Citizens program támogatásával, hét esemény során a résztvevő partnerek tapasztalatokat, jógyakorlatokat cserélnek, tovább építik kapcsolataik és további közös projekteket fejlesztenek.
 
-2018.06.14-16. között a H20 projekt szlovén partnere – a LAZ Vidékfejlesztési Egyesület – látta vendégül a résztvevőket a szerbiai Rumából, a horvátországi Našiceből, a csehországi Prágából, a bulgáriai Razlogból és a magyarországi Pécsről érkeztek. A programon a fenti városok közül, öt város polgármestere is részt vett. 
+2018.06.14-16. között a H20 projekt szlovén partnere – a LAZ Vidékfejlesztési Egyesület – látta vendégül a résztvevőket a szerbiai Rumából, a horvátországi Našiceből, a csehországi Prágából, a bulgáriai Razlogból és a magyarországi Pécsről érkeztek. A programon a fenti városok közül, öt város polgármestere is részt vett.
 
 Litijában az esemény szervezői bemutatták, hogy Ljubljanában is kiemelten foglalkoznak a talajvíz-védelemmel, annak érdekében, hogy klórmentes ivóvizet tudjak biztosítani. A pályázat neve, melynek keretében ezt megvalósítják “AMIIGA és talajvíz-védelmi tervek – az eszköz a vizeink megőrzésére és fejlesztésére ”.
 

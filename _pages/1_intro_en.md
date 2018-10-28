@@ -5,6 +5,7 @@ lang: en
 link: false
 ref: intro
 order: 1
+main: true
 ---
 
 The __Humán Innovációs Csoport Non-profit Ltd.__ is a social enterprise operating since 2009. It combines reaching _high priority community goals_ with successful _business

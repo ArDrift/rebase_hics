@@ -3,6 +3,8 @@ title: News & Events
 nav: News
 lang: en
 link: true
+layout: home
+permalink: /news_en/
 ref: news
 img: /assets/img/news.jpg
 order: 3
@@ -10,7 +12,7 @@ order: 3
 
 # __March 2018__
 
-![Coaching centre logo](../assets/img/logo_cc.png)
+![Coaching centre logo](/assets/img/logo_cc.png)
 
 The Coaching Centre started a new training for team coaches on the 1 st of March, 2018. The course is 76 hours long and takes place in the headquarters of Humán
 Innovációs Csoport Non-profit Ltd. Its goal is to train coach-minded leaders and
