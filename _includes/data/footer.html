@@ -1,3 +1,9 @@
+{% assign contact_section = site.pages | where:"ref","contact" | where:"lang",page.lang %}
+{% if page.contact == true %}
+{% for section in contact_section %}
+{% include data/contact.html %}
+{% endfor %}
+{% endif %}
 <style>
 body {
   position: absolute;
@@ -9,7 +15,6 @@ body {
 footer {
   position: absolute;
   right: 0;
-  bottom: 0;
   left: 0;
 }
 </style>
