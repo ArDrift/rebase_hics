@@ -92,8 +92,6 @@ h4 {
 }
 
 header {
-    height: 100vh;
-    min-height: 850px;
     text-align: center;
     color: #d5d5d5;
     background-attachment: scroll;
@@ -108,11 +106,9 @@ header {
 }
 
 header .intro {
-    padding-top: 25vh;
     padding-bottom: 50px;
     display: table-cell;
     vertical-align: middle;
-    min-height: 850px;
 }
 
 header .intro .intro-lead-in {
@@ -130,7 +126,7 @@ header .intro .intro-heading {
     font-size: 40px;
     font-weight: 700;
     line-height: 40px;
-    margin-top: 50px;
+    margin-top: 35%;
 }
 
 @media(min-width:1500px) {
@@ -139,7 +135,6 @@ header .intro .intro-heading {
         padding-bottom: 200px;
         display: table-cell;
         vertical-align: middle;
-        min-height: 850px;
     }
 
     header .intro .intro-lead-in {
@@ -166,10 +161,6 @@ header .intro-img img {
   height: auto;
   padding-top: 25px;
   display: inline-block;
-}
-
-header > .container {
-  min-height: 850px;
 }
 
 @media(min-width:500px) {
@@ -370,8 +361,9 @@ fieldset[disabled] .btn-xl.active {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
-    letter-spacing: 1px;
-    color: #000000;
+    letter-spacing: 0.7px;
+    color: #be1521;
+    font-weight: bold;
 }
 
 .navbar-default .nav li a:hover,
@@ -396,7 +388,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default-color {
         padding: 25px 0;
         background-color: transparent;
-        text-shadow: 0px 0px 2px black;
+        text-shadow: 1px 1px 2px black;
     }
     .navbar-default {
         border: 0;
@@ -437,7 +429,7 @@ aside.clients h2,
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
-    font-size: 40px;
+    font-size: 45px;
 }
 
 section h3.section-subheading {
@@ -710,7 +702,7 @@ section#contact .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
-    background-color: white;
+    background-color: rgba(0,0,0,0.07);
     position: absolute;
     right: 0;
     left: 0;
