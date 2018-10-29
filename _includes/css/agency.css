@@ -126,12 +126,13 @@ header .intro .intro-heading {
     font-size: 40px;
     font-weight: 700;
     line-height: 40px;
-    margin-top: 35%;
+    margin-top: 20%;
+    padding-bottom: inherit;
 }
 
 @media(min-width:1500px) {
     header .intro {
-        padding-top: 300px;
+        padding-top: 100px;
         padding-bottom: 200px;
         display: table-cell;
         vertical-align: middle;
@@ -163,12 +164,37 @@ header .intro-img img {
   display: inline-block;
 }
 
+@media(max-width:384px) {
+  header .intro-img img {
+    padding-bottom: 100%;
+  }
+}
+
+@media(min-width:385px) {
+  header .intro-img img {
+    padding-bottom: 70%;
+  }
+}
+
 @media(min-width:500px) {
   header .intro-img img {
     max-width: 50%;
     height: auto;
     padding-top: 25px;
     display: inline-block;
+    padding-bottom: 50%;
+  }
+}
+
+@media(min-width:700px) {
+  header .intro .intro-heading {
+    padding-bottom: 20%;
+  }
+}
+
+@media(min-width:700px) {
+  header .intro-img img {
+    padding-bottom: 40%;
   }
 }
 
@@ -656,6 +682,7 @@ Create heading for each section with img front matter property
   font-size: 45px;
   padding-top: 100px;
   padding-bottom: 50px;
+  word-wrap: break-word;
 }
 
 @media(max-width:515px) {
