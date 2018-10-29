@@ -44,39 +44,39 @@ __Működésünk alapelvei:__
 __Stratégiai partnereink:__
 - Pécsi Tudományegyetem
 
-![Pécsi Tudományegyetem logo](assets/img/ptelogo.jpg)
+![Pécsi Tudományegyetem logo](/assets/img/ptelogo.jpg)
 
 - Pécs Baranyai Kereskedelmi és Iparkamara
 
-![Pécs Baranyai Kereskedelmi és Iparkamara logo](assets/img/pbkik_logo.jpg)
+![Pécs Baranyai Kereskedelmi és Iparkamara logo](/assets/img/pbkik_logo.jpg)
 
 - IFKA
 
-![IFKA logo](assets/img/ifka-logo.svg)
+![IFKA logo](/assets/img/ifka-logo.svg)
 
 - Kreatív Ipari Klaszter
 
-![Kreatív Ipari Klaszter logo](assets/img/ccic.png)
+![Kreatív Ipari Klaszter logo](/assets/img/ccic.png)
 
 - Coachingcentrum
 
-![Coachingcentrum logo](assets/img/logo_cc.png)
+![Coachingcentrum logo](/assets/img/logo_cc.png)
 
 - BIOS Eszéki Inkubátor Ház
 
-![BIOS logo](assets/img/logo_bios.png)
+![BIOS logo](/assets/img/logo_bios.png)
 
 - Máltai Szeretetszolgálat
 
-![Máltai Szeretetszolgálat logo](assets/img/MMSZ_logo.png)
+![Máltai Szeretetszolgálat logo](/assets/img/MMSZ_logo.png)
 
 - Baranya Megyei Kormányhivatal
 
-![Baranya Megyei Kormányhivatal logo](assets/img/logo_kormanyhiv.jpg)
+![Baranya Megyei Kormányhivatal logo](/assets/img/logo_kormanyhiv.jpg)
 
 - Országos KID Egyesület
 
-![KID Egyesület logo](assets/img/kid.jpg)
+![KID Egyesület logo](/assets/img/kid.jpg)
 
 - Vállalkozások
 

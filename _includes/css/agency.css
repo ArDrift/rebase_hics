@@ -454,7 +454,7 @@ section h2.section-subheading {
 
 
 @media(min-width:990px) {
-    .section_page_contact {
+    .section_contact {
         padding: 100px 0;
     }
 }
@@ -664,57 +664,57 @@ Create heading for each section with img front matter property
   }
 }
 
-.section_page_contact .form-group {
+.section_contact .form-group {
     margin-bottom: 25px;
 }
 
-.section_page_contact .form-group input,
-.section_page_contact .form-group textarea {
+.section_contact .form-group input,
+.section_contact .form-group textarea {
     padding: 20px;
 }
 
-.section_page_contact .form-group input.form-control {
+.section_contact .form-group input.form-control {
     height: auto;
 }
 
-.section_page_contact .form-group textarea.form-control {
+.section_contact .form-group textarea.form-control {
     height: 236px;
 }
 
-.section_page_contact .form-control:focus {
+.section_contact .form-control:focus {
     border-color: #{{ site.data.template.color.primary }};
     box-shadow: none;
 }
 
-.section_page_contact::-webkit-input-placeholder {
+.section_contact::-webkit-input-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-.section_page_contact:-moz-placeholder {
+.section_contact:-moz-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-.section_page_contact::-moz-placeholder {
+.section_contact::-moz-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-.section_page_contact:-ms-input-placeholder {
+.section_contact:-ms-input-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-.section_page_contact .text-danger {
+.section_contact .text-danger {
     color: #e74c3c;
 }
 

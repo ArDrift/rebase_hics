@@ -49,39 +49,39 @@ __Strategic Partners:__
 
 - The University of Pécs
 
-![The University of Pécs logo](../assets/img/ptelogo.jpg)
+![The University of Pécs logo](/assets/img/ptelogo.jpg)
 
 - The Chamber of Industry and Commerce of Pécs, Baranya
 
-![The Chamber of Industry and Commerce of Pécs logo](../assets/img/pbkik_logo.jpg)
+![The Chamber of Industry and Commerce of Pécs logo](/assets/img/pbkik_logo.jpg)
 
 - IFKA
 
-![IFKA logo](../assets/img/ifka-logo.svg)
+![IFKA logo](/assets/img/ifka-logo.svg)
 
 - Creative Industry Cluster
 
-![Creative Industry Cluster logo](../assets/img/ccic.png)
+![Creative Industry Cluster logo](/assets/img/ccic.png)
 
 - Coach Centre
 
-![Coaching Centre logo](../assets/img/logo_cc.png)
+![Coaching Centre logo](/assets/img/logo_cc.png)
 
 - BIOS Incubator House in Eszék
 
-![BIOS logo](../assets/img/logo_bios.png)
+![BIOS logo](/assets/img/logo_bios.png)
 
 - Maltese Charity Service
 
-![Maltese Charity logo](../assets/img/MMSZ_logo.png)
+![Maltese Charity logo](/assets/img/MMSZ_logo.png)
 
 - Government Office of Baranya
 
-![Government Office of Baranya logo](../assets/img/logo_kormanyhiv.jpg)
+![Government Office of Baranya logo](/assets/img/logo_kormanyhiv.jpg)
 
 - Country KID Association
 
-![Country KID Association logo](../assets/img/kid.jpg)
+![Country KID Association logo](/assets/img/kid.jpg)
 
 - Enterprises
 
