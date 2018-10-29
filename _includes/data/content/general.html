@@ -1,9 +1,15 @@
 {% if page.ref == "intro" %}<h2 class="section-heading text-center" id="{{ page.ref }}">{{ page.title }}</h2>{% endif %}
-<div class="portfolio-modal" id="{{ section.order }}" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="portfolio-modal" id="{{ section.ref }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
+                  {% if page.archived == false %}
+                      <div class="text-center">
+                          <a href="{% if page.lang == "hu" %}/projects_en/{{ page.ref }}/{% else %}/projects_hu/{{ page.ref }}/{% endif %}" class="btn btn-xl">
+                            {%- if page.lang == "hu" -%}EN{%- else -%}HU{%- endif -%}</a>
+                      </div>
+                      {% endif %}
                     <div class="modal-body{% if page.ref == "intro" %} intro-logos{%- endif -%}">
                       {{ page.content | markdownify }}
                     </div>
