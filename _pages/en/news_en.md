@@ -3,7 +3,7 @@ title: News & Events
 nav: News
 lang: en
 link: true
-layout: home
+layout: page
 permalink: /news_en/
 ref: news
 img: /assets/img/news.jpg

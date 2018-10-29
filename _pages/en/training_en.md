@@ -3,7 +3,7 @@ title: Trainings / Courses
 nav: Training
 lang: en
 link: true
-layout: home
+layout: page
 permalink: /training_en/
 ref: training
 img: /assets/img/training.jpg

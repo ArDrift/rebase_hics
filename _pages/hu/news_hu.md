@@ -3,7 +3,7 @@ title: 'Aktuális hírek, esemény&shy;ek'
 nav: Hírek
 lang: hu
 link: true
-layout: home
+layout: page
 permalink: /news_hu/
 ref: news
 img: /assets/img/news.jpg

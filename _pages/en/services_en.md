@@ -3,7 +3,7 @@ title: Tender Expert Services
 nav: Services
 lang: en
 link: true
-layout: home
+layout: page
 permalink: /services_en/
 ref: services
 img: /assets/img/services.jpg

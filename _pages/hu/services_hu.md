@@ -3,7 +3,7 @@ title: Szolgál&shy;tatások
 nav: Szolgáltatások
 lang: hu
 link: true
-layout: home
+layout: page
 permalink: /services_hu/
 ref: services
 img: /assets/img/services.jpg

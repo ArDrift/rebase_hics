@@ -3,7 +3,7 @@ title: Szervezet&shy;fejlesz&shy;tés
 nav: Szervezetfejlesztés
 lang: hu
 link: true
-layout: home
+layout: page
 permalink: /org_dev_hu/
 ref: org_dev
 img: /assets/img/org_dev.jpg

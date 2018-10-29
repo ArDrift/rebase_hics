@@ -3,7 +3,7 @@ title: The Barn
 nav: The Barn
 lang: en
 link: true
-layout: home
+layout: page
 permalink: /granary_en/
 ref: granary
 img: /assets/img/granary.jpg

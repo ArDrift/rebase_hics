@@ -3,7 +3,7 @@ title: Organ&shy;ization develop&shy;ment
 nav: Organization development
 lang: en
 link: true
-layout: home
+layout: page
 permalink: /org_dev_en/
 ref: org_dev
 img: /assets/img/org_dev.jpg

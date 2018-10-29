@@ -3,7 +3,7 @@ title: Enter&shy;prise develop&shy;ment
 nav: Enterprise development
 lang: en
 link: true
-layout: home
+layout: page
 permalink: /ent_dev_en/
 ref: ent_dev
 img: /assets/img/ent_dev.jpg

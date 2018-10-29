@@ -3,7 +3,7 @@ title: Képzés&shy;eink
 nav: Képzés
 lang: hu
 link: true
-layout: home
+layout: page
 permalink: /training_hu/
 ref: training
 img: /assets/img/training.jpg
