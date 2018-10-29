@@ -1,3 +1,10 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
+
+/*INCLUDE MAIN CSS FILE*/
+{% capture criticalcss %}
+{% include /css/critical.scss %}
+{% endcapture %}
+
+{{ criticalcss | scssify }}
 {{ content }}

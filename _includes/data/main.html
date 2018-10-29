@@ -1,0 +1,5 @@
+{% assign main_sections = site.pages | where:"lang",page.lang | where:"main",true %}
+{% include data/header.html %}
+{% for page in main_sections %}
+{% include data/content.html %}
+{% endfor %}

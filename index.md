@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ref: home
 lang: hu
 contact: true

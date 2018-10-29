@@ -23,7 +23,7 @@ footer {
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                  <span class="copyright">© {{ 'now' | date: "%Y" }} <a href="https://github.com/melvinchng/event-jekyll-theme">Event Jekyll Theme</a> by <a href="http://melvinchng.github.io">Melvin Ch'ng</a>,<br>All Rights Reserved.</span>
+                  <span class="copyright">© {{ 'now' | date: "%Y" }} {% if page.lang == "hu" %}{{ site.data.strings.titles.main.hu }}</br>Minden jog fenntartva.{% else %}{{ site.data.strings.titles.main.en }}</br>All Rights Reserved.{% endif %}</span>
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
@@ -34,6 +34,7 @@ footer {
                     </ul>
                 </div>
                 <div class="col-md-4">
+                  <span class="copyright">Based on <a href="https://github.com/melvinchng/event-jekyll-theme">Event Jekyll Theme</a> by <a href="http://melvinchng.github.io">Melvin Ch'ng</a>,</br></span>
                   <span class="copyright"><strong> < > </strong>by <a href="https://github.com/ArDrift"><strong>ArDrift</strong></a> @ <a href="https://cloud4est.github.io/site_main/"><strong>Cloud4est</strong></a></span>
                 </div>
             </div>

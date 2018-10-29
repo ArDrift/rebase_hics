@@ -17,9 +17,9 @@
                     <li>
                       <a href="{% if page.lang == "hu" %}{{ site.baseurl }}/en/{% elsif page.lang == "en" %}{{ site.baseurl }}/{% endif %}">{% if page.lang == "hu" %}[English]{% elsif page.lang == "en" %}[Magyar]{% endif %}</a>
                     </li>
-                  {% assign navbar_links = site.pages | sort:"order" | where:"lang",page.lang | where:"link",true %}
+                  {%- assign navbar_links = site.pages | sort:"order" | where:"lang",page.lang | where:"link",true -%}
                   {%- for section in navbar_links -%}
-                    {%- if page.ref != section.ref -%}
+                  {% if page.ref != section.ref %}
                     <li>
                       <a class="page-scroll" href="{{ section.permalink }}">{{ section.nav }}</a>
                     </li>{%- endif -%}{% endfor %}

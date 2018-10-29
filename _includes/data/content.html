@@ -1,47 +1,59 @@
 <!-- Page content -->
 
-{% case section.ref %}
-
-{% when "intro" %}
-<h2 class="section-heading text-center" id="{{ section.ref }}">{{ section.title }}</h2>
-<div class="portfolio-modal" id="{{ section.order }}" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body intro-logos">
-                      {{ section.content }}
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-{% when "contact" %}
-
-{% include data/contact.html %}
-
-{% endcase %}
-
 {% case page.ref %}
 
-{% when "projects" %}
+{% when "intro" %}
 
-{% include data/projects_content.html %}
+  {% for page in main_sections %}
+
+  {% include data/content/general.html %}
+
+  {% endfor %}
+{% when "contact" %}
+
+  {% include data/contact.html %}
 
 {% else %}
-  <div class="portfolio-modal" id="{{ page.order }}" tabindex="-1" role="dialog" aria-hidden="true">
-      <div class="modal-content">
-          <div class="container">
-              <div class="row">
-                  <div class="col-lg-8 col-lg-offset-2">
-                      <div class="modal-body {%- if page.ref == "intro" -%} intro-logos{%- endif -%}">
-                        {{ page.content }}
+
+  {% case page.projects %}
+
+  {% when true %}
+
+    <!-- Current projects -->
+
+    <!-- Current project content -->
+
+              <div class="container">
+                  <div class="row">
+                      <div class="col-lg-12 text-center">
+                        <h2 class="section-heading">{{ section.title }}</h2>
                       </div>
                   </div>
               </div>
-          </div>
-      </div>
-  </div>
 
+    <!-- Archived projects -->
+    {% assign archived_projects = site.posts | where:"lang",page.lang | where:"archived",true %}
+
+    <!-- Archived project sections -->
+    <div class="row">
+    {% for post in archived_projects %}
+
+    {% include data/content/project_icons.html %}
+
+    {% endfor %}
+    </div>
+
+
+    {% for post in archived_projects %}
+
+    <!-- Archived project content -->
+    {% include data/content/project_modals.html %}
+
+    {% endfor %}
+
+  {% else %}
+
+    {% include data/content/general.html %}
+
+{% endcase %}
 {% endcase %}

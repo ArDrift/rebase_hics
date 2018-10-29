@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+{% if page.ref != "home" %}
+<!-- Normal page layout -->
+  {% include data/header.html %}
+  {% include data/content.html %}
+
+{% else %}
+<!-- Homepage layout -->
+  {% include data/main.html %}
+
+{% endif %}

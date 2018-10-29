@@ -1,0 +1,13 @@
+<div class="col-md-4 col-sm-6 speakers-item">
+    <a href="#{{ post.ref }}" class="speakers-link" data-toggle="modal">
+        <div class="speakers-hover">
+            <div class="speakers-hover-content">
+                <i class="fa fa-plus fa-3x"></i>
+            </div>
+        </div>
+        <img src="{{ post.img }}" class="img-responsive img-centered" alt="">
+    </a>
+    <div class="speakers-caption">
+        <h4>{% if post.short_title != null %}{{ post.short_title }}{% else %}{{ post.title }}{% endif %}</h4>
+    </div>
+</div>

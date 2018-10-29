@@ -1,6 +1,3 @@
-{% assign posts = site.posts | where:"lang",page.lang %}
-{% for post in posts %}
-<!-- Archived Project content -->
 <div class="container">
     <div class="portfolio-modal modal fade" id="{{ post.ref }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
@@ -16,7 +13,7 @@
                         <div class="modal-body">
                             <h1><strong>{{ post.title }}</strong></h1>
                             <hr class="star-primary">
-                            {{ post.content }}
+                            {{ post.content | markdownify }}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Bezár</button>
                         </div>
                     </div>
@@ -25,4 +22,3 @@
         </div>
     </div>
 </div>
-{% endfor %}

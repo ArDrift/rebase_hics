@@ -1,20 +1,12 @@
 <!DOCTYPE html>
 <html lang={% if page.lang == "hu" %}"hu"{% elsif page.lang == "en" %}"en"{% endif %}>
 
-  <style type="text/css">
-    /*INCLUDE MAIN CSS FILE*/
-    {% capture criticalcss %}
-      {% include /css/critical.scss %}
-    {% endcapture %}
-    {{ criticalcss | scssify }}
-  </style>
-
-  {% include /data/js.html %}
   {% include /data/head.html %}
 
-  <body>
+  <body{% if page.ref == "home" %} id="page-top" class="index"{%- endif -%}>
     {% include /data/navbar.html %}
-        {% include /data/pages.html %}
+    {{ content }}
   </body>
   {% include /data/footer.html %}
+  {% include /data/js.html %}
 </html>

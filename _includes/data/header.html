@@ -1,23 +1,43 @@
 {% case page.ref %}
 {% when "home"%}
-<!-- Main header -->
-    <header>
-        <div class="container">
-            <div class="intro">
-                <div class="intro-heading">
-                  {% if page.lang == "hu" %}
-                    {{ site.data.strings.titles.main.hu }}
-                  {% elsif page.lang == "en"%}
-                    {{ site.data.strings.titles.main.en }}
-                  {% endif %}
-                </div>
-                <div class="intro-img">
-                    <img src="/assets/img/hics-logo.png" alt="HICS logo">
-                </div>
-            </div>
-        </div>
-    </header>
+  <!-- Main header -->
+  <header>
+      <div class="container">
+          <div class="intro">
+              <div class="intro-heading">
+                {% if page.lang == "hu" %}
+                  {{ site.data.strings.titles.main.hu }}
+                {% elsif page.lang == "en"%}
+                  {{ site.data.strings.titles.main.en }}
+                {% endif %}
+              </div>
+              <div class="intro-img">
+                  <img src="/assets/img/hics-logo.png" alt="HICS logo">
+              </div>
+          </div>
+      </div>
+  </header>
+
+{% when "projects" %}
+
+  {% assign current_project_section = site.pages | where:"lang",page.lang | where:"projects",true | where_exp:"page","page.archived != true" %}
+  {% for page in current_project_section %}
+  <!-- Current project section -->
+  {% include data/section.html %}
+  {% endfor %}
+  <!-- Current projects -->
+  {% assign current_projects = site.posts | where:"lang",page.lang | where_exp:"post","post.archived != true" %}
+  {% for page in current_projects %}
+  {% include data/current_projects_sections.html %}
+  {% endfor %}
+
+  {% assign archived_projects_section = site.pages | where:"lang",page.lang | where:"projects",true | where:"archived",true %}
+  {% for page in archived_projects_section %}
+  <!-- Archived project section -->
+  {% include data/section.html %}
+  {% endfor %}
+
 {% else %}
-<!-- Page header -->
-{% include data/pages.html %}
+  <!-- Page header -->
+  {% include data/section.html %}
 {% endcase %}
