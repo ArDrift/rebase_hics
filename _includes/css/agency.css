@@ -454,13 +454,17 @@ section h2.section-subheading {
 
 
 @media(min-width:990px) {
-    section#contact {
+    .section_page_contact {
         padding: 100px 0;
     }
 }
 
-section#projects {
-        padding: 0px 0 50px;
+.section_page_projects {
+        padding: 100px 0px;
+}
+
+.section_page_current_projects {
+        padding: 100px 0px;
 }
 
 @media(max-width:1200px) {
@@ -622,14 +626,28 @@ aside.clients img {
 /*
 Create heading for each section with img front matter property
 */
-{% assign img_sections = site.pages | sort:"order" | where: "lang","hu" %}{% for section in img_sections %}{% if section.img %}
-section#{{ section.ref }} {
+{% assign img_sections = site.pages | sort:"order" | where:"lang","hu" | where_exp:"page","page.img != null" %}
+{% for page in img_sections %}
+.section_{{ page.ref }} {
   background-color: #222;
-  background-image: url('{{ site.baseurl }}{{ section.img }}');
+  background-image: url('{{ site.baseurl }}{{ page.img }}');
   background-position: center;
   background-repeat: no-repeat;
 }
-{% endif %}{% endfor %}
+{% endfor %}
+
+{% assign img_projects = site.posts | where:"lang","hu" | where_exp:"post","post.img != null" | where_exp:"post","post.archived != true" %}
+{%- for projects in img_projects -%}
+.section_{{ projects.ref }} {
+  background-color: #222;
+  background-image: url('{{ site.baseurl }}{{ projects.img }}');
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 100px 0px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+{% endfor %}
 
 .section-heading {
   color: #{{ site.data.template.color.primary }};
@@ -637,6 +655,7 @@ section#{{ section.ref }} {
   font-weight: bold;
   font-size: 45px;
   padding-top: 100px;
+  padding-bottom: 50px;
 }
 
 @media(max-width:515px) {
@@ -645,57 +664,57 @@ section#{{ section.ref }} {
   }
 }
 
-section#contact .form-group {
+.section_page_contact .form-group {
     margin-bottom: 25px;
 }
 
-section#contact .form-group input,
-section#contact .form-group textarea {
+.section_page_contact .form-group input,
+.section_page_contact .form-group textarea {
     padding: 20px;
 }
 
-section#contact .form-group input.form-control {
+.section_page_contact .form-group input.form-control {
     height: auto;
 }
 
-section#contact .form-group textarea.form-control {
+.section_page_contact .form-group textarea.form-control {
     height: 236px;
 }
 
-section#contact .form-control:focus {
+.section_page_contact .form-control:focus {
     border-color: #{{ site.data.template.color.primary }};
     box-shadow: none;
 }
 
-section#contact::-webkit-input-placeholder {
+.section_page_contact::-webkit-input-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact:-moz-placeholder {
+.section_page_contact:-moz-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact::-moz-placeholder {
+.section_page_contact::-moz-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact:-ms-input-placeholder {
+.section_page_contact:-ms-input-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-section#contact .text-danger {
+.section_page_contact .text-danger {
     color: #e74c3c;
 }
 
