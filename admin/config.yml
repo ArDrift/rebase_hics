@@ -26,6 +26,8 @@ collections:
       - {label: "Kép", name: "img", widget: "image"}
       - {label: "Leírás", name: "description", widget: "text"}
       - {label: "Szöveg", name: "body", widget: "markdown"}
+      - {label: "Elrendezés", name: "layout", widget: "string", hidden: "true"}
+      - {label: "Link", name: "permalink", widget: "string", hidden: true}
   - name: "project" # Used in routes, e.g., /admin/collections/blog
     label: "Project [EN]" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
@@ -42,6 +44,8 @@ collections:
       - {label: "Kép", name: "img", widget: "image"}
       - {label: "Leírás", name: "description", widget: "text"}
       - {label: "Szöveg", name: "body", widget: "markdown"}
+      - {label: "Elrendezés", name: "layout", widget: "string", hidden: "true"}
+      - {label: "Link", name: "permalink", widget: "string", hidden: true}
   - name: "szekcio" # Used in routes, e.g., /admin/collections/blog
     label: "Szekció [HU]" # Used in the UI
     folder: "_pages/hu" # The path to the folder where the documents are stored
@@ -59,6 +63,8 @@ collections:
       - {label: "Kép", name: "img", widget: "image", required: false}
       - {label: "Sorrend", name: "order", widget: "number", valueType: "int"}
       - {label: "Szöveg", name: "body", widget: "markdown"}
+      - {label: "Elrendezés", name: "layout", widget: "string", hidden: "true"}
+      - {label: "Link", name: "permalink", widget: "string", hidden: true}
   - name: "section" # Used in routes, e.g., /admin/collections/blog
     label: "Section [EN]" # Used in the UI
     folder: "_pages/en" # The path to the folder where the documents are stored
@@ -76,3 +82,5 @@ collections:
       - {label: "Kép", name: "img", widget: "image", required: false}
       - {label: "Sorrend", name: "order", widget: "number", valueType: "int"}
       - {label: "Szöveg", name: "body", widget: "markdown"}
+      - {label: "Elrendezés", name: "layout", widget: "string", hidden: true}
+      - {label: "Link", name: "permalink", widget: "string", hidden: true}
