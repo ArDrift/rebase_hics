@@ -9,43 +9,30 @@ ref: news
 img: /assets/img/news.jpg
 order: 3
 ---
+
 **Meghívó**
 
 Az Interreg V-A Magyarország-Horvátország Együttműködési Program keretében
-
 megvalósításra kerülő, RE.M.I.S.E. (Regional Managers In Social Economy)
-
 projekt célja a szociális és szolidáris gazdasági szektor határ menti régióban
-
 meglevő erőforrásainak, lehetőségeinek és fejlesztési igényeinek feltárása, majd
-
 az átfogó helyzetfelmérésen alapulva a „Társadalmi vállalkozások
-
 menedzselése” című képzés tananyagának közös kidolgozása, és megvalósítása
-
 volt a határ mindkét oldalán.
 
 A RE.M.I.S.E. projekt partnerségi együttműködésében résztvevő felnőttképzéssel
-
 és szervezetfejlesztéssel foglakozó tagjai a Pécsi Tudományegyetem, az Open
-
-University Koprivnica, valamint a Humán Innovációs Csoport Nonprofit Kft.
+University Koprivnica, valamint a **Humán Innovációs Csoport Nonprofit Kft.**
 
 A záró konferencia időpontja és helyszíne: 2018. november 27-én 10:00 - 14:00
-
 óra,  Pécsi Tudományegyetem Kultúratudományi, Pedagógusképző és
-
-Vidékfejlesztési Kar, Pécsi Campus, (Pécs, Szántó Kovács János u. 1/b.) .
+Vidékfejlesztési Kar, Pécsi Campus, (Pécs, Szántó Kovács János u. 1/b.) .
 
 A konferencia helyszínén a programban résztvevők közül több társadalmi
-
 vállalkozás termékeinek, illetve szolgáltatásainak bemutatója is megtekinthető.
 
 Kérjük, hogy részvételi szándékát a következő címen jelezze
-
-számunkra: <https://goo.gl/forms/hWtmq1XY3JF1A4lz2>
-
-
+számunkra: [https://goo.gl/forms/hWtmq1XY3JF1A4lz2](https://goo.gl/forms/hWtmq1XY3JF1A4lz2)
 
 **Coachképzés Pécsett**
 

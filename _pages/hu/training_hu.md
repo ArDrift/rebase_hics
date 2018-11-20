@@ -10,6 +10,42 @@ img: /assets/img/training.jpg
 order: 6
 ---
 
+**E-kereskedelem és webshop menedzsment 48 óra**
+
+**E-000554/2014/D002**
+
+Célja, hogy a képzésben résztvevők értsék a webáruházak felépítését, működtetését, valamint meg tudják valósítani a képzés során tanultakat a gyakorlatban.
+
+**Társadalmi vállalkozások menedzselése a gyakorlatban 30 óra**
+
+**E-000554/2014/D006**
+
+A képzés célja, hogy résztvevői számára olyan komplex gyakorlati ismereteket nyújtson, illetve olyan példákat mutasson a hazai és nemzetközi gyakorlatból, amelyek révén a képzés sikeres befejezését követően képessé válnak a szociális gazdaság területén innovatív megoldásokat adaptálni.
+
+**60 órás digitális komptenecia fejlesztés**
+
+**E-000554/2014/D007**
+
+A képzés célja, hogy a képzésben résztvevők megismerkedjenek a számítógép felépítésével, működésével, a fájlkezelés alapjaival és a vírusvédelem fontosságával, megismerik a szövegszerkesztő fontosabb funkcióit, megtanulnak önéletrajzot készíteni. Megismerkednek az internet használat veszélyeivel, és ki tudják használni az internetes álláskeresésben rejlő lehetőségeket.
+
+**Szociális, szolidáris gazdaság és környezete**
+
+**E-000554/2014/D008**
+
+A képzés célja, hogy résztvevői olyan komplex, gyakorlatorientált elméleti és gyakorlati ismereteket nyújtson, ill. olyan kompetenciák elsajátítását alapozza meg, amelyek révén a képzés sikeres befejezését követően képessé válnak szociális szövetkezetek alapítására, menedzselésére, azok működtetési folyamatában való részvételre.
+
+**Európai szociális gazdasági menedzsment technikák**
+
+**E-000554/2014/D009**
+
+A képzés célja olyan vezetői és marketing készségek megalapozása illetve fejlesztése, amelyek révén a képzésben résztvevők hozzájárulhatnak a szociális szövetkezetek sikeres működtetéséhez és hosszú távú fenntarthatóságának biztosításához.
+
+**Innovációk és jó gyakorlatok a szociális gazdaságban**
+
+**E-000554/2014/D010**
+
+A képzés célja, hogy személyre szabott lehetőséget biztosítson arra, hogy a résztvevők jó gyakorlatokat, innovatív megoldásokat tanulmányozva, elemezve szerezzenek tapasztalatot.
+
 ## __Munkaerőpiaci- és közösség&shy;fejlesztő komplex program__
 
 __Engedélyezési szám: E-000554/2014__
