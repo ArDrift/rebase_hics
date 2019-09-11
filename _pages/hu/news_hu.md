@@ -1,5 +1,5 @@
 ---
-title: 'Aktuális hírek, esemény&shy;ek'
+title: News
 nav: Hírek
 lang: hu
 link: true
