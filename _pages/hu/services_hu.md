@@ -4,7 +4,7 @@ nav: 'Project management '
 lang: hu
 link: true
 ref: services
-img: /assets/img/woman-3190829_1280.jpg
+img: /assets/img/startup-593341_1280.jpg
 order: 8
 layout: page
 permalink: /services_hu/
