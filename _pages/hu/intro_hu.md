@@ -5,79 +5,81 @@ lang: hu
 link: false
 ref: intro
 order: 1
-main: true
+layout: page
+permalink: intro
 ---
+A **Humán Innovációs Csoport Nonprofit Kft.** 2009 óta működő társadalmi vállalkozás, amely a _kiemelt közösségi célok_ elérését sikeres _üzleti működéssel_ ötvözi, így hozva létre egy hosszútávon szakmailag és pénzügyileg is fenntartható modellt.
 
-A __Humán Innovációs Csoport Nonprofit Kft.__ 2009 óta működő társadalmi vállalkozás, amely a _kiemelt közösségi célok_ elérését sikeres _üzleti működéssel_ ötvözi, így hozva létre egy hosszútávon szakmailag és pénzügyileg is fenntartható modellt.
+**Társadalmi küldetésünk:**
 
-__Társadalmi küldetésünk:__
-- Sikeres egyéni életutakhoz való hozzájárulás képzéssel, képesség-, készségfejlesztéssel
-- Hátrányos helyzetű emberek, csoportok társadalmi reintegrációja
-- Komplex területfejlesztés társadalmi, és gazdasági szempontból egyaránt
-- Társadalmi vállalkozások létrejöttének, fejlesztésének elősegítése, CSR
+* Sikeres egyéni életutakhoz való hozzájárulás képzéssel, képesség-, készségfejlesztéssel
+* Hátrányos helyzetű emberek, csoportok társadalmi reintegrációja
+* Komplex területfejlesztés társadalmi, és gazdasági szempontból egyaránt
+* Társadalmi vállalkozások létrejöttének, fejlesztésének elősegítése, CSR
 
-A fentiek megvalósítása érdekében számos __programot, projektet__ generálunk és  fejlesztünk Leggyakrabban partnerségben működve _közös szakmai programokat_ alakítunk ki, valamint magunk is jelentős számú _saját projektet_ valósítunk meg.
+A fentiek megvalósítása érdekében számos **programot, projektet** generálunk és  fejlesztünk Leggyakrabban partnerségben működve _közös szakmai programokat_ alakítunk ki, valamint magunk is jelentős számú _saját projektet_ valósítunk meg.
 
-__Szakértői szolgáltatásaink:__
-- Területfejlesztés
-- Vállalkozásfejlesztés
-- Szervezetfejlesztés
-- Közösségfejlesztés
-- Tréningek (vezetőfejlesztés, munkaerő-piaci, közösségfejlesztő, személyes készségek képességek fejlesztése, )
-- Felnőttképzés (Engedélyezett felnőttképző intézmény vagyunk)
-- Coaching
-- Pályázati szakértői szolgáltatások
-- CSR fejlesztés, tanácsadás
+**Szakértői szolgáltatásaink:**
 
-__Működésünk alapelvei:__
-- Széleskörű partnerségi együttműködés
-- Csapatmunka
-- Átláthatóság
-- Önértékelésen alapuló állandó fejlődés
-- Innováció, kreativitás
-- Folyamatos szolgáltatás fejlesztés
-- Felelősségteljes működés szűkebb és tágabb környezetünkben
-- Munkatársaink bevonása a vezetésbe, döntéshozatalba
-- Családbarát munkahely
+* Területfejlesztés
+* Vállalkozásfejlesztés
+* Szervezetfejlesztés
+* Közösségfejlesztés
+* Tréningek (vezetőfejlesztés, munkaerő-piaci, közösségfejlesztő, személyes készségek képességek fejlesztése, )
+* Felnőttképzés (Engedélyezett felnőttképző intézmény vagyunk)
+* Coaching
+* Pályázati szakértői szolgáltatások
+* CSR fejlesztés, tanácsadás
 
+**Működésünk alapelvei:**
 
-__Stratégiai partnereink:__
-- Pécsi Tudományegyetem
+* Széleskörű partnerségi együttműködés
+* Csapatmunka
+* Átláthatóság
+* Önértékelésen alapuló állandó fejlődés
+* Innováció, kreativitás
+* Folyamatos szolgáltatás fejlesztés
+* Felelősségteljes működés szűkebb és tágabb környezetünkben
+* Munkatársaink bevonása a vezetésbe, döntéshozatalba
+* Családbarát munkahely
 
-![Pécsi Tudományegyetem logo](/assets/img/ptelogo.jpg)
+**Stratégiai partnereink:**
 
-- Pécs Baranyai Kereskedelmi és Iparkamara
+Pécsi Tudományegyetem
 
-![Pécs Baranyai Kereskedelmi és Iparkamara logo](/assets/img/pbkik_logo.jpg)
+![Pécsi Tudományegyetem logo](/assets/img/images.png)
 
-- IFKA
+Pécs Baranyai Kereskedelmi és Iparkamara
+
+![Pécs Baranyai Kereskedelmi és Iparkamara logo](/assets/img/humán-klub.png)
+
+IFKA
 
 ![IFKA logo](/assets/img/ifka-logo.svg)
 
-- Kreatív Ipari Klaszter
+Kreatív Ipari Klaszter
 
-![Kreatív Ipari Klaszter logo](/assets/img/ccic.png)
+![Kreatív Ipari Klaszter logo](/assets/img/kreatív-ipari-klaszter.png)
 
-- Coachingcentrum
+Coachingcentrum
 
-![Coachingcentrum logo](/assets/img/logo_cc.png)
+![Coachingcentrum logo](/assets/img/coaching-centrum-logo.png)
 
-- BIOS Eszéki Inkubátor Ház
+BIOS Eszéki Inkubátor Ház
 
-![BIOS logo](/assets/img/logo_bios.png)
+![BIOS logo](/assets/img/bios-logo.jpg)
 
-- Máltai Szeretetszolgálat
+Máltai Szeretetszolgálat
 
 ![Máltai Szeretetszolgálat logo](/assets/img/MMSZ_logo.png)
 
-- Baranya Megyei Kormányhivatal
+Baranya Megyei Kormányhivatal
 
 ![Baranya Megyei Kormányhivatal logo](/assets/img/logo_kormanyhiv.jpg)
 
-- Országos KID Egyesület
+Országos KID Egyesület
 
 ![KID Egyesület logo](/assets/img/kid.jpg)
 
-- Vállalkozások
-
-- Település Önkormányzatok
+* Vállalkozások
+* Település Önkormányzatok
