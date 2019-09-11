@@ -5,7 +5,7 @@ lang: hu
 link: false
 ref: intro
 order: 1
-layout: page
+layout: intro
 permalink: /intro_hu
 ---
 A **Humán Innovációs Csoport Nonprofit Kft.** 2009 óta működő társadalmi vállalkozás, amely a _kiemelt közösségi célok_ elérését sikeres _üzleti működéssel_ ötvözi, így hozva létre egy hosszútávon szakmailag és pénzügyileg is fenntartható modellt.
