@@ -1,5 +1,5 @@
 ---
-title: Szolgál&shy;tatások
+title: Project management
 nav: 'Project management '
 lang: hu
 link: true
