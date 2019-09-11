@@ -3,40 +3,47 @@ title: 'Aktuális hírek, esemény&shy;ek'
 nav: Hírek
 lang: hu
 link: true
+ref: news
+img: /assets/img/meetings-1149198_1280.jpg
+order: 3
 layout: page
 permalink: /news_hu/
-ref: news
-img: /assets/img/news.jpg
-order: 3
 ---
+# 2019. szeptember 
 
-**Meghívó**
+## Teamcoach képzés demonap 
 
-Az Interreg V-A Magyarország-Horvátország Együttműködési Program keretében
-megvalósításra kerülő, RE.M.I.S.E. (Regional Managers In Social Economy)
-projekt célja a szociális és szolidáris gazdasági szektor határ menti régióban
-meglevő erőforrásainak, lehetőségeinek és fejlesztési igényeinek feltárása, majd
-az átfogó helyzetfelmérésen alapulva a „Társadalmi vállalkozások
-menedzselése” című képzés tananyagának közös kidolgozása, és megvalósítása
-volt a határ mindkét oldalán.
+![](/assets/img/coaching-centrum-logo.png)
 
-A RE.M.I.S.E. projekt partnerségi együttműködésében résztvevő felnőttképzéssel
-és szervezetfejlesztéssel foglakozó tagjai a Pécsi Tudományegyetem, az Open
-University Koprivnica, valamint a **Humán Innovációs Csoport Nonprofit Kft.**
+Nagy érdeklődés mellett zajlott a harmadik teamcoach képzés demonapja, melyre több mint harmincan regisztráltak. A képzés tematikáját, és egyes moduljaival ismerkedhettek meg az érdeklődők. 
 
-A záró konferencia időpontja és helyszíne: 2018. november 27-én 10:00 - 14:00
-óra,  Pécsi Tudományegyetem Kultúratudományi, Pedagógusképző és
+A 76 órás képzés akkreditált teamcoach-tanúsítványt ad a résztvevőknek.  Célja, hogy coach szemléletű vezetőket, szakembereket képezzen, akik egyik fő feladata, hogy emberekkel, csoportokkal foglalkozzanak minél hatékonyabban.  
+
+A program házigazdája, **Pernyéz Zsuzsanna**, a HICS ügyvezető tulajdonosa volt.  
+
+# 2019. május 
+
+## Humán Konferencia 
+
+![](/assets/img/humán-klub.png)
+
+# 2018. november
+
+## RE.M.I.S.E. (Regional Managers In Social Economy) projekt záró konferencia
+
+Az Interreg V-A Magyarország-Horvátország Együttműködési Program keretében megvalósításra kerülő, élja a szociális és szolidáris gazdasági szektor határ menti régióban meglevő erőforrásainak, lehetőségeinek és fejlesztési igényeinek feltárása, majd az átfogó helyzetfelmérésen alapulva a „Társadalmi vállalkozások menedzselése” című képzés tananyagának közös kidolgozása, és megvalósítása volt a határ mindkét oldalán.
+
+A RE.M.I.S.E. projekt partnerségi együttműködésében résztvevő felnőttképzéssel és szervezetfejlesztéssel foglakozó tagjai a Pécsi Tudományegyetem, az Open University Koprivnica, valamint a **Humán Innovációs Csoport Nonprofit Kft.**
+
+A záró konferencia időpontja és helyszíne: 2018. november 27-én 10:00 - 14:00 óra,  Pécsi Tudományegyetem Kultúratudományi, Pedagógusképző és
 Vidékfejlesztési Kar, Pécsi Campus, (Pécs, Szántó Kovács János u. 1/b.) .
 
 A konferencia helyszínén a programban résztvevők közül több társadalmi
 vállalkozás termékeinek, illetve szolgáltatásainak bemutatója is megtekinthető.
 
-Kérjük, hogy részvételi szándékát a következő címen jelezze
-számunkra: [https://goo.gl/forms/hWtmq1XY3JF1A4lz2](https://goo.gl/forms/hWtmq1XY3JF1A4lz2)
+# 2018.szeptember 
 
-**Coachképzés Pécsett**
-
-Kedves Partnereink és Érdeklődők!
+## **Coachképzés Pécsett**
 
 Már csak szeptember első hetében lehet jelentkezni a Coachingcentrum szeptember 13-án Pécsett induló 128 órás life- és businesscoach-képzésére.
 
@@ -56,21 +63,9 @@ Büszkék vagyunk arra, hogy a Coachingcentrum képzése az egyetlen coachképz�
 
 A képzés a Humán Innovációs Csoporttal együttműködésben valósul meg, a pécsi képzés vezetője Pernyéz Zsuzsanna.
 
-Szeretettel várjuk a formálódó csoportban, időpontot egyéni konzultációra a 06202605933-as telefonszámon tud kérni, részletes tematikát pedig az office@coachingcentrum.hu e-mail címen.
+# **2018. június**
 
-# **2018. március**
-
-![Coaching centrum logo](/assets/img/logo_cc.png)
-
-A Coachingcentrum 2018. március 1-től megkezdte a teamcoach képzését, melynek a Humán Innovációs Csoport Nkft. ad helyet. A képzés 76 órás. Célja, hogy coach szemléletű vezetőket, szakembereket képezzen, akik egyik fő feladata, hogy emberekkel, csoportokkal foglalkozzanak minél hatékonyabban.   Az akkreditált képzés teamcoach-tanúsítványt ad.
-
-# **Terem&shy;bérlés**
-
-Irodánk oktatóteremmel is rendelkezik, amely alkalmas, tárgyalások, work shopok, tréningek, képzések lebonyolítására. A terem tárgyaló asztalokkal és székekkel felszerelt, amelyben 10, az asztalok nélkül 16 fő befogadására alkalmas.
-Bérleti díj:  2.800Ft/óra
-Az alap felszereltségen kívül biztosítani tudunk laptopot, projektort, flipchart táblát, nyomtatási lehetőséget. Igény esetén részletes ajánlatot adunk!
-
-**H20 - TOWN NETWORKING AND ENGAGING CITIZENS FOR THE PROTECTION OF WATER RESOURCES IN EUROPE**
+## **H20 - TOWN NETWORKING AND ENGAGING CITIZENS FOR THE PROTECTION OF WATER RESOURCES IN EUROPE**
 
 Lezajlott a "H20 - TOWN NETWORKING AND ENGAGING CITIZENS FOR THE PROTECTION OF WATER RESOURCES IN EUROPE" projekt keretében a tapasztalat és jógyakorlat csere, Szlovénia szívében, Litijában, hat ország részvételével.  
 
@@ -91,3 +86,13 @@ A litijai partner jóvoltából a résztvevők megtekinthették a bányát Sitar
 A projekt már több mint egy éve tart, melynek során mind szakmai, mind baráti kapcsolatok alakultak ki, mélyültek el.
 
 A projekt soron következő és egyben záró eseménye szeptemberben a szerbiai Rumában lesz.
+
+# 2018. március
+
+## **Teamcoach képzés **
+
+![Coaching centrum logo](/assets/img/logo_cc.png)
+
+A Coachingcentrum 2018. március 1-től megkezdte a teamcoach képzését, melynek a Humán Innovációs Csoport Nkft. ad helyet. A képzés 76 órás. Célja, hogy coach szemléletű vezetőket, szakembereket képezzen, akik egyik fő feladata, hogy emberekkel, csoportokkal foglalkozzanak minél hatékonyabban.   Az akkreditált képzés teamcoach-tanúsítványt ad.
+
+##
