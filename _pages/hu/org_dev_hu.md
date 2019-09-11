@@ -3,7 +3,7 @@ title: Szervezet&shy;fejlesz&shy;tés
 nav: Szervezetfejlesztés
 lang: hu
 link: true
-ref: org_dev
+ref: 'http://liftprojekt.hu/'
 img: /assets/img/org_dev.jpg
 order: 7
 layout: page
