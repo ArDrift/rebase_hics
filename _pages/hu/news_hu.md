@@ -47,11 +47,7 @@ vállalkozás termékeinek, illetve szolgáltatásainak bemutatója is megtekint
 
 Már csak szeptember első hetében lehet jelentkezni a Coachingcentrum szeptember 13-án Pécsett induló 128 órás life- és businesscoach-képzésére.
 
-A képzés részleteiről az alábbi linken olvashatnak információkat:
-
-[Coachingcentrum Coachképzés](https://www.coachingcentrum.hu/kepzesek/coachkepzes-pecs/)
-
-Miben más a mi programunk?
+**Miben más a mi programunk?**
 
 Büszkék vagyunk arra, hogy a Coachingcentrum képzése az egyetlen coachképzés Magyarországon,
 
@@ -61,7 +57,7 @@ Büszkék vagyunk arra, hogy a Coachingcentrum képzése az egyetlen coachképz�
 4. és amelyben minden coaching-irányzatot a témához legjobban értő oktató oktat
 5. amelyben a kurzus alatt 7 oktató vezeti a foglalkozásokat, akik közül mindenki rendelkezik vezetői tapasztalattal, multinacionális és saját vállalkozás háttérrel, és gyakorlatban is coachol egyéneket és csoportokat.
 
-A képzés a Humán Innovációs Csoporttal együttműködésben valósul meg, a pécsi képzés vezetője Pernyéz Zsuzsanna.
+A pécsi képzés vezetője Pernyéz Zsuzsanna a HICS ügyvezető tulajdonosa.
 
 # **2018. június**
 
