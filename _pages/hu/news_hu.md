@@ -9,11 +9,11 @@ order: 3
 layout: page
 permalink: /news_hu/
 ---
-# 2019. szeptember 
+# 2019. szeptember
 
-## Teamcoach képzés demonap 
+## Teamcoach képzés demonap
 
-![](/assets/img/coaching-centrum-logo.png)
+![null](/assets/img/coaching-centrum-logo.png)
 
 Nagy érdeklődés mellett zajlott a harmadik teamcoach képzés demonapja, melyre több mint harmincan regisztráltak. A képzés tematikáját, és egyes moduljaival ismerkedhettek meg az érdeklődők. 
 
@@ -21,11 +21,11 @@ A 76 órás képzés akkreditált teamcoach-tanúsítványt ad a résztvevőknek
 
 A program házigazdája, **Pernyéz Zsuzsanna**, a HICS ügyvezető tulajdonosa volt.  
 
-# 2019. május 
+# 2019. május
 
-## Humán Konferencia 
+## Humán Konferencia
 
-![](/assets/img/humán-klub.png)
+![null](/assets/img/humán-klub.png)
 
 # 2018. november
 
@@ -41,7 +41,7 @@ Vidékfejlesztési Kar, Pécsi Campus, (Pécs, Szántó Kovács János u. 1/b.)
 A konferencia helyszínén a programban résztvevők közül több társadalmi
 vállalkozás termékeinek, illetve szolgáltatásainak bemutatója is megtekinthető.
 
-# 2018.szeptember 
+# 2018.szeptember
 
 ## **Coachképzés Pécsett**
 
@@ -89,7 +89,7 @@ A projekt soron következő és egyben záró eseménye szeptemberben a szerbiai
 
 # 2018. március
 
-## **Teamcoach képzés **
+## Teamcoach képzés 
 
 ![Coaching centrum logo](/assets/img/logo_cc.png)
 
