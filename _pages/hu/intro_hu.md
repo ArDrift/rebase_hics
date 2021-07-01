@@ -4,11 +4,13 @@ nav: Bemutatkozás
 lang: hu
 link: false
 ref: intro
-img: /assets/img/honlapra-ginop-tábla-vágva-.png
+img: ''
 order: 1
 layout: center
 permalink: intro
 ---
+![](/assets/img/honlapra-ginop-tábla-vágva-.png)
+
 A **Humán Innovációs Csoport Nonprofit Kft.** 2009 óta működő társadalmi vállalkozás, amely a _kiemelt közösségi célok_ elérését sikeres _üzleti működéssel_ ötvözi, így hozva létre egy hosszútávon szakmailag és pénzügyileg is fenntartható modellt.
 
 **Társadalmi küldetésünk:**
