@@ -2,12 +2,12 @@
 title: Vállal&shy;kozás&shy;fejlesz&shy;tés
 nav: Vállalkozásfejlesztés
 lang: hu
-link: true
-layout: page
-permalink: /ent_dev_hu/
+link: false
 ref: ent_dev
 img: /assets/img/ent_dev.jpg
 order: 4
+layout: page
+permalink: /ent_dev_hu/
 ---
 
 Hagyományos értelemben vett, helyzetfeltárás, külső és belső erőforrások (pénzügyi-gazdasági, humán,
