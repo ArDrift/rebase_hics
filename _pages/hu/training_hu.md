@@ -2,7 +2,7 @@
 title: Képzés&shy;eink
 nav: Képzés
 lang: hu
-link: true
+link: false
 ref: training
 img: /assets/img/training.jpg
 order: 6
