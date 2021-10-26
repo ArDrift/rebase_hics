@@ -2,12 +2,12 @@
 title: Magtár
 nav: Magtár
 lang: hu
-link: true
-layout: page
-permalink: /granary_hu/
+link: false
 ref: granary
 img: /assets/img/granary.jpg
 order: 9
+layout: page
+permalink: /granary_hu/
 ---
 
 _2015._ április 18-án nyílt meg a szigetvári bosnyákságnak emléket állító __„Jászám tike!”__ nevű állandó helytörténeti kiállítás.
