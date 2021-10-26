@@ -2,12 +2,12 @@
 title: Coaching
 nav: Coaching
 lang: hu
-link: true
-layout: page
-permalink: /coaching_hu/
+link: false
 ref: coaching
 img: /assets/img/coaching.jpg
 order: 5
+layout: page
+permalink: /coaching_hu/
 ---
 
 ## __Mi a coaching?__
