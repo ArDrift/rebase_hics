@@ -2,7 +2,7 @@
 title: News
 nav: Hírek
 lang: hu
-link: true
+link: false
 ref: news
 img: /assets/img/meetings-1149198_1280.jpg
 order: 3
