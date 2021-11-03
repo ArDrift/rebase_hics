@@ -469,13 +469,6 @@ section h2.section-subheading {
 }
 
 @media(min-width:990px) {
-    section {
-        padding: 350px 0;
-    }
-}
-
-
-@media(min-width:990px) {
     .section_contact {
         padding: 100px 0;
     }
