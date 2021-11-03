@@ -12,3 +12,16 @@ layout: style
     right: 0vh;
     width: 35vh;
 }
+
+.intro-ginop {
+    margin: auto;
+    display: block;
+    width: 50vw;
+    padding-top: 5vh;
+}
+
+@media(max-width: 1499px) {
+    .intro-ginop {
+        width: 100vw;
+    }
+}

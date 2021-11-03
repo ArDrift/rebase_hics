@@ -669,8 +669,7 @@ Create heading for each section with img front matter property
   text-shadow: 3px 2px 2px black;
   font-weight: bold;
   font-size: 45px;
-  padding-top: 100px;
-  padding-bottom: 50px;
+  padding-top: 5vh;
   word-wrap: break-word;
 }
 
