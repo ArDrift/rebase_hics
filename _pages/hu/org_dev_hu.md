@@ -3,11 +3,11 @@ title: Szervezet&shy;fejlesz&shy;tés
 nav: Szervezetfejlesztés
 lang: hu
 link: true
-ref: 'http://liftprojekt.hu/'
+ref: 'lift'
 img: /assets/img/org_dev.jpg
 order: 7
 layout: page
-permalink: 'http://liftprojekt.hu/'
+permalink: 'https://liftprojekt.hu/'
 ---
 Minden szervezet alapvető igénye az egyensúly, ez garantálja a megfelelő működést. Az egyensúlyi állapot ugyanakkor egy állandóságot feltételez, ami a növekedés gátja lehet. Növekedés, fejlődés esetén ez az egyensúly megbillenhet, ami azonnali beavatkozást igényel. Ezen a ponton tudunk segíteni a vállalkozásoknak abban, hogy feltárjuk az akadályokat, együtt kialakítsuk a megfelelő stragétiát, megtervezzünk egy akciótervet, valamint annak a végrehajtását.
 
