@@ -1,3 +1,14 @@
 ---
 layout: style
 ---
+
+.section_ginop {
+    position: relative;
+}
+
+.section_ginop img {
+    position: absolute;
+    top: 6vh;
+    right: 0vh;
+    width: 35vh;
+}
