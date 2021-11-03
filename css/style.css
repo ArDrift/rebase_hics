@@ -25,3 +25,14 @@ layout: style
         width: 100vw;
     }
 }
+
+.main_ginop {
+    position: relative;
+}
+
+.main_ginop img {
+    position: absolute;
+    bottom: 0vh;
+    right: 0vh;
+    width: 35vh;
+}
